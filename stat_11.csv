@@ -1,21 +1,21 @@
-home_team
-Tottenham Hotspur
-Aston Villa
-Blackburn Rovers
-Bolton Wanderers
-Sunderland
-Wigan Athletic
-Wolverhampton Wanderers
-Chelsea
-Liverpool
-Manchester United
-Arsenal
-Birmingham City
-Everton
-Stoke City
-West Bromwich Albion
-West Ham United
-Newcastle United
-Fulham
-Manchester City
-Blackpool
+home_team,total,wins,losses,prop
+Manchester United,38,23,15,0.6052631578947368
+Chelsea,38,21,17,0.5526315789473685
+Manchester City,38,21,17,0.5526315789473685
+Arsenal,38,19,19,0.5
+Liverpool,38,17,21,0.4473684210526316
+Tottenham Hotspur,38,16,22,0.42105263157894735
+Everton,38,13,25,0.34210526315789475
+Stoke City,38,13,25,0.34210526315789475
+Sunderland,38,12,26,0.3157894736842105
+Bolton Wanderers,38,12,26,0.3157894736842105
+Aston Villa,38,12,26,0.3157894736842105
+West Bromwich Albion,38,12,26,0.3157894736842105
+Wolverhampton Wanderers,38,11,27,0.2894736842105263
+Newcastle United,38,11,27,0.2894736842105263
+Fulham,38,11,27,0.2894736842105263
+Blackburn Rovers,38,11,27,0.2894736842105263
+Blackpool,38,10,28,0.2631578947368421
+Wigan Athletic,38,9,29,0.23684210526315788
+Birmingham City,38,8,30,0.21052631578947367
+West Ham United,38,7,31,0.18421052631578946

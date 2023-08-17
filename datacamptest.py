@@ -104,6 +104,9 @@ team17.to_csv('stat_17.csv' , index = False)
 
 '''
 
+#(((the upper part is for preprocessing dont remove comments)))
+
+
 
 #made stat for every season and read it 
 stat07 = pd.read_csv('stat_07.csv')
@@ -133,6 +136,17 @@ season17 = pd.read_csv('season_17.csv')
 #made array of the stat and season to easy access them dynamically
 statarray = [stat07 , stat08 , stat09, stat10 , stat11 , stat12 , stat13 , stat14 , stat15 , stat16 , stat17 ]
 seasonarray = [season07 , season08 , season09 , season10 , season11 , season12 , season13 , season14 , season15 , season16 , season17 ]
+
+#here get the input season from the user
+x = input("please enter season: ")
+season = int(x)
+
+        #switch season number to indexes of statarray[ season7 = index 0 , ...]
+season = {
+        7: 0,  8: 1,  9: 2,  10: 3,
+        11: 4, 12: 5, 13: 6, 14: 7,
+        15: 8, 16: 9, 17: 10
+        }.get(season, -1)  
 
 #this function takes season and team to calculate how many matches the team won
 def calWins( teamm , s ):
@@ -181,55 +195,45 @@ def getWins( SeasonNumber) :
 
 
 
-#here it takes the season number and convert it to intger 
-x = input("please enter season: ")
-season = int(x)
-
-#switch season number to indexes of statarray[ season7 = index 0 , ...]
-season = {
-    7: 0,  8: 1,  9: 2,  10: 3,
-    11: 4, 12: 5, 13: 6, 14: 7,
-    15: 8, 16: 9, 17: 10
-}.get(season, -1)    
+  
 
 
-i = 6 #increamant in case we wanted to save a new stat
-#here we get the list of winnings of the specific season then add it to dataframe stat with new column ["wins"] then print the dataframe sorted and print the head == winner
-wins = getWins( int(season) )
-total  = gettotal(int(season))
-statarray[season]["total"] = total
-statarray[season]["wins"] = wins 
+#here to run the code just call run()
+def run() :
+        #here it takes the season number and convert it to intger 
+       
 
-statarray[season]["losses"] =statarray[season]['total'] - statarray[season]["wins"] 
-statarray[season]["prop"] =statarray[season]['wins'] / statarray[season]["total"] 
-print(statarray[season].sort_values(by='wins' , ascending=False))
-temp = statarray[season].sort_values(by='wins' , ascending=False)
-print("##############################################")
-print( " the epl winner is " + temp["home_team"].head(1))
-print("##############################################")
+
+        i = 6 #increamant in case we wanted to save a new stat
+        #here we get the list of winnings of the specific season then add it to dataframe stat with new column ["wins"] then print the dataframe sorted and print the head == winner
+        wins = getWins( int(season) )
+        total  = gettotal(int(season))
+        statarray[season]["total"] = total
+        statarray[season]["wins"] = wins 
+
+        statarray[season]["losses"] =statarray[season]['total'] - statarray[season]["wins"] 
+        statarray[season]["prop"] =statarray[season]['wins'] / statarray[season]["total"] 
+        print(statarray[season].sort_values(by='wins' , ascending=False))
+        temp = statarray[season].sort_values(by='wins' , ascending=False)
+        print("##############################################")
+        print( " the epl winner is " + temp["home_team"].head(1))
+        print("##############################################")
 
 
 
-
-'''
-#here to save a new stat it starts at season+ 7  = stat season 7 , ...(sorted)
-x = int(season) + 7 
-temp = statarray[season].sort_values(by='wins' , ascending=False)
-temp.to_csv(f"stat{int(x)}.csv" , index= False)
-
-'''
+#here to save changes only on csv
+def save() :
+        #here to save a new stat it starts at season+ 7  = stat season 7 , ...(sorted)
+        x = int(season) + 7 
+        temp = statarray[season].sort_values(by='wins' , ascending=False)
+        temp.to_csv(f"stat_{int(x)}.csv" , index= False)
 
 
-'''
-visual17 = pd.read_csv("stat17.csv")
-top5teams = visual17.head(15)
-plt.bar(top5teams["home_team"], top5teams["wins"] ) 
-plt.title('Number of Games Won by top 5 Teams' ) 
-plt.xlabel('Team')
-plt.ylabel('Number of Games Won')
-plt.show()
 
-'''
+run()
+#sava() dont run it unless u want to save a new thing
+
+
 
 
 
