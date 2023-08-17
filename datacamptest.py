@@ -296,8 +296,13 @@ def newWinnerAppend():
 
 
 run()
-#newWinnerAppend() #dont run again unless wanna save new season
-#save() #dont run it unless u want to save a new season
+#sava() dont run it unless u want to save a new thing
+
+
+
+
+
+
 
 
 
