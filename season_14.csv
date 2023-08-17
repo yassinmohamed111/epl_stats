@@ -1,0 +1,381 @@
+home_team,away_team,home_goals,away_goals,result,season,total_goals
+Liverpool,Stoke City,1.0,0.0,H,2013-2014,1.0
+Arsenal,Aston Villa,1.0,3.0,A,2013-2014,4.0
+Norwich City,Everton,2.0,2.0,D,2013-2014,4.0
+Sunderland,Fulham,0.0,1.0,A,2013-2014,1.0
+West Bromwich Albion,Southampton,0.0,1.0,A,2013-2014,1.0
+West Ham United,Cardiff City,2.0,0.0,H,2013-2014,2.0
+Swansea City,Manchester United,1.0,4.0,A,2013-2014,5.0
+Crystal Palace,Tottenham Hotspur,0.0,1.0,A,2013-2014,1.0
+Chelsea,Hull City,2.0,0.0,H,2013-2014,2.0
+Manchester City,Newcastle United,4.0,0.0,H,2013-2014,4.0
+Chelsea,Aston Villa,2.0,1.0,H,2013-2014,3.0
+Fulham,Arsenal,1.0,3.0,A,2013-2014,4.0
+Everton,West Bromwich Albion,0.0,0.0,D,2013-2014,0.0
+Hull City,Norwich City,1.0,0.0,H,2013-2014,1.0
+Newcastle United,West Ham United,0.0,0.0,D,2013-2014,0.0
+Southampton,Sunderland,1.0,1.0,D,2013-2014,2.0
+Stoke City,Crystal Palace,2.0,1.0,H,2013-2014,3.0
+Aston Villa,Liverpool,0.0,1.0,A,2013-2014,1.0
+Cardiff City,Manchester City,3.0,2.0,H,2013-2014,5.0
+Tottenham Hotspur,Swansea City,1.0,0.0,H,2013-2014,1.0
+Manchester United,Chelsea,0.0,0.0,D,2013-2014,0.0
+Manchester City,Hull City,2.0,0.0,H,2013-2014,2.0
+Cardiff City,Everton,0.0,0.0,D,2013-2014,0.0
+Newcastle United,Fulham,1.0,0.0,H,2013-2014,1.0
+Norwich City,Southampton,1.0,0.0,H,2013-2014,1.0
+West Ham United,Stoke City,0.0,1.0,A,2013-2014,1.0
+Crystal Palace,Sunderland,3.0,1.0,H,2013-2014,4.0
+Liverpool,Manchester United,1.0,0.0,H,2013-2014,1.0
+West Bromwich Albion,Swansea City,0.0,2.0,A,2013-2014,2.0
+Arsenal,Tottenham Hotspur,1.0,0.0,H,2013-2014,1.0
+Manchester United,Crystal Palace,2.0,0.0,H,2013-2014,2.0
+Aston Villa,Newcastle United,1.0,2.0,A,2013-2014,3.0
+Fulham,West Bromwich Albion,1.0,1.0,D,2013-2014,2.0
+Hull City,Cardiff City,1.0,1.0,D,2013-2014,2.0
+Stoke City,Manchester City,0.0,0.0,D,2013-2014,0.0
+Sunderland,Arsenal,1.0,3.0,A,2013-2014,4.0
+Tottenham Hotspur,Norwich City,2.0,0.0,H,2013-2014,2.0
+Everton,Chelsea,1.0,0.0,H,2013-2014,1.0
+Southampton,West Ham United,0.0,0.0,D,2013-2014,0.0
+Swansea City,Liverpool,2.0,2.0,D,2013-2014,4.0
+Norwich City,Aston Villa,0.0,1.0,A,2013-2014,1.0
+Liverpool,Southampton,0.0,1.0,A,2013-2014,1.0
+Newcastle United,Hull City,2.0,3.0,A,2013-2014,5.0
+West Bromwich Albion,Sunderland,3.0,0.0,H,2013-2014,3.0
+West Ham United,Everton,2.0,3.0,A,2013-2014,5.0
+Chelsea,Fulham,2.0,0.0,H,2013-2014,2.0
+Arsenal,Stoke City,3.0,1.0,H,2013-2014,4.0
+Crystal Palace,Swansea City,0.0,2.0,A,2013-2014,2.0
+Cardiff City,Tottenham Hotspur,0.0,1.0,A,2013-2014,1.0
+Manchester City,Manchester United,4.0,1.0,H,2013-2014,5.0
+Tottenham Hotspur,Chelsea,1.0,1.0,D,2013-2014,2.0
+Aston Villa,Manchester City,3.0,2.0,H,2013-2014,5.0
+Fulham,Cardiff City,1.0,2.0,A,2013-2014,3.0
+Hull City,West Ham United,1.0,0.0,H,2013-2014,1.0
+Manchester United,West Bromwich Albion,1.0,2.0,A,2013-2014,3.0
+Southampton,Crystal Palace,2.0,0.0,H,2013-2014,2.0
+Swansea City,Arsenal,1.0,2.0,A,2013-2014,3.0
+Stoke City,Norwich City,0.0,1.0,A,2013-2014,1.0
+Sunderland,Liverpool,1.0,3.0,A,2013-2014,4.0
+Everton,Newcastle United,3.0,2.0,H,2013-2014,5.0
+Manchester City,Everton,3.0,1.0,H,2013-2014,4.0
+Cardiff City,Newcastle United,1.0,2.0,A,2013-2014,3.0
+Fulham,Stoke City,1.0,0.0,H,2013-2014,1.0
+Hull City,Aston Villa,0.0,0.0,D,2013-2014,0.0
+Liverpool,Crystal Palace,3.0,1.0,H,2013-2014,4.0
+Sunderland,Manchester United,1.0,2.0,A,2013-2014,3.0
+Norwich City,Chelsea,1.0,3.0,A,2013-2014,4.0
+Southampton,Swansea City,2.0,0.0,H,2013-2014,2.0
+Tottenham Hotspur,West Ham United,0.0,3.0,A,2013-2014,3.0
+West Bromwich Albion,Arsenal,1.0,1.0,D,2013-2014,2.0
+Newcastle United,Liverpool,2.0,2.0,D,2013-2014,4.0
+Arsenal,Norwich City,4.0,1.0,H,2013-2014,5.0
+Chelsea,Cardiff City,4.0,1.0,H,2013-2014,5.0
+Everton,Hull City,2.0,1.0,H,2013-2014,3.0
+Manchester United,Southampton,1.0,1.0,D,2013-2014,2.0
+Stoke City,West Bromwich Albion,0.0,0.0,D,2013-2014,0.0
+Swansea City,Sunderland,4.0,0.0,H,2013-2014,4.0
+West Ham United,Manchester City,1.0,3.0,A,2013-2014,4.0
+Aston Villa,Tottenham Hotspur,0.0,2.0,A,2013-2014,2.0
+Crystal Palace,Fulham,1.0,4.0,A,2013-2014,5.0
+Crystal Palace,Arsenal,0.0,2.0,A,2013-2014,2.0
+Aston Villa,Everton,0.0,2.0,A,2013-2014,2.0
+Liverpool,West Bromwich Albion,4.0,1.0,H,2013-2014,5.0
+Manchester United,Stoke City,3.0,2.0,H,2013-2014,5.0
+Norwich City,Cardiff City,0.0,0.0,D,2013-2014,0.0
+Southampton,Fulham,2.0,0.0,H,2013-2014,2.0
+Sunderland,Newcastle United,2.0,1.0,H,2013-2014,3.0
+Chelsea,Manchester City,2.0,1.0,H,2013-2014,3.0
+Swansea City,West Ham United,0.0,0.0,D,2013-2014,0.0
+Tottenham Hotspur,Hull City,1.0,0.0,H,2013-2014,1.0
+Newcastle United,Chelsea,2.0,0.0,H,2013-2014,2.0
+Fulham,Manchester United,1.0,3.0,A,2013-2014,4.0
+Hull City,Sunderland,1.0,0.0,H,2013-2014,1.0
+Manchester City,Norwich City,7.0,0.0,H,2013-2014,7.0
+Stoke City,Southampton,1.0,1.0,D,2013-2014,2.0
+West Bromwich Albion,Crystal Palace,2.0,0.0,H,2013-2014,2.0
+West Ham United,Aston Villa,0.0,0.0,D,2013-2014,0.0
+Arsenal,Liverpool,2.0,0.0,H,2013-2014,2.0
+Everton,Tottenham Hotspur,0.0,0.0,D,2013-2014,0.0
+Cardiff City,Swansea City,1.0,0.0,H,2013-2014,1.0
+Aston Villa,Cardiff City,2.0,0.0,H,2013-2014,2.0
+Chelsea,West Bromwich Albion,2.0,2.0,D,2013-2014,4.0
+Crystal Palace,Everton,0.0,0.0,D,2013-2014,0.0
+Liverpool,Fulham,4.0,0.0,H,2013-2014,4.0
+Southampton,Hull City,4.0,1.0,H,2013-2014,5.0
+Norwich City,West Ham United,3.0,1.0,H,2013-2014,4.0
+Tottenham Hotspur,Newcastle United,0.0,1.0,A,2013-2014,1.0
+Sunderland,Manchester City,1.0,0.0,H,2013-2014,1.0
+Manchester United,Arsenal,1.0,0.0,H,2013-2014,1.0
+Swansea City,Stoke City,3.0,3.0,D,2013-2014,6.0
+Everton,Liverpool,3.0,3.0,D,2013-2014,6.0
+Arsenal,Southampton,2.0,0.0,H,2013-2014,2.0
+Fulham,Swansea City,1.0,2.0,A,2013-2014,3.0
+Hull City,Crystal Palace,0.0,1.0,A,2013-2014,1.0
+Newcastle United,Norwich City,2.0,1.0,H,2013-2014,3.0
+Stoke City,Sunderland,2.0,0.0,H,2013-2014,2.0
+West Ham United,Chelsea,0.0,3.0,A,2013-2014,3.0
+Manchester City,Tottenham Hotspur,6.0,0.0,H,2013-2014,6.0
+Cardiff City,Manchester United,2.0,2.0,D,2013-2014,4.0
+West Bromwich Albion,Aston Villa,2.0,2.0,D,2013-2014,4.0
+Aston Villa,Sunderland,0.0,0.0,D,2013-2014,0.0
+Cardiff City,Arsenal,0.0,3.0,A,2013-2014,3.0
+Everton,Stoke City,4.0,0.0,H,2013-2014,4.0
+Norwich City,Crystal Palace,1.0,0.0,H,2013-2014,1.0
+West Ham United,Fulham,3.0,0.0,H,2013-2014,3.0
+Newcastle United,West Bromwich Albion,2.0,1.0,H,2013-2014,3.0
+Tottenham Hotspur,Manchester United,2.0,2.0,D,2013-2014,4.0
+Hull City,Liverpool,3.0,1.0,H,2013-2014,4.0
+Chelsea,Southampton,3.0,1.0,H,2013-2014,4.0
+Manchester City,Swansea City,3.0,0.0,H,2013-2014,3.0
+Crystal Palace,West Ham United,1.0,0.0,H,2013-2014,1.0
+Arsenal,Hull City,2.0,0.0,H,2013-2014,2.0
+Liverpool,Norwich City,5.0,1.0,H,2013-2014,6.0
+Manchester United,Everton,0.0,1.0,A,2013-2014,1.0
+Southampton,Aston Villa,2.0,3.0,A,2013-2014,5.0
+Stoke City,Cardiff City,0.0,0.0,D,2013-2014,0.0
+Sunderland,Chelsea,3.0,4.0,A,2013-2014,7.0
+Swansea City,Newcastle United,3.0,0.0,H,2013-2014,3.0
+Fulham,Tottenham Hotspur,1.0,2.0,A,2013-2014,3.0
+West Bromwich Albion,Manchester City,2.0,3.0,A,2013-2014,5.0
+Manchester United,Newcastle United,0.0,1.0,A,2013-2014,1.0
+Crystal Palace,Cardiff City,2.0,0.0,H,2013-2014,2.0
+Liverpool,West Ham United,4.0,1.0,H,2013-2014,5.0
+Southampton,Manchester City,1.0,1.0,D,2013-2014,2.0
+Stoke City,Chelsea,3.0,2.0,H,2013-2014,5.0
+West Bromwich Albion,Norwich City,0.0,2.0,A,2013-2014,2.0
+Sunderland,Tottenham Hotspur,1.0,2.0,A,2013-2014,3.0
+Fulham,Aston Villa,2.0,0.0,H,2013-2014,2.0
+Arsenal,Everton,1.0,1.0,D,2013-2014,2.0
+Swansea City,Hull City,1.0,1.0,D,2013-2014,2.0
+Manchester City,Arsenal,6.0,3.0,H,2013-2014,9.0
+Cardiff City,West Bromwich Albion,1.0,0.0,H,2013-2014,1.0
+Chelsea,Crystal Palace,2.0,1.0,H,2013-2014,3.0
+Everton,Fulham,4.0,1.0,H,2013-2014,5.0
+Newcastle United,Southampton,1.0,1.0,D,2013-2014,2.0
+West Ham United,Sunderland,0.0,0.0,D,2013-2014,0.0
+Hull City,Stoke City,0.0,0.0,D,2013-2014,0.0
+Aston Villa,Manchester United,0.0,3.0,A,2013-2014,3.0
+Norwich City,Swansea City,1.0,1.0,D,2013-2014,2.0
+Tottenham Hotspur,Liverpool,0.0,5.0,A,2013-2014,5.0
+Liverpool,Cardiff City,3.0,1.0,H,2013-2014,4.0
+Crystal Palace,Newcastle United,0.0,3.0,A,2013-2014,3.0
+Fulham,Manchester City,2.0,4.0,A,2013-2014,6.0
+Manchester United,West Ham United,3.0,1.0,H,2013-2014,4.0
+Stoke City,Aston Villa,2.0,1.0,H,2013-2014,3.0
+Sunderland,Norwich City,0.0,0.0,D,2013-2014,0.0
+West Bromwich Albion,Hull City,1.0,1.0,D,2013-2014,2.0
+Southampton,Tottenham Hotspur,2.0,3.0,A,2013-2014,5.0
+Swansea City,Everton,1.0,2.0,A,2013-2014,3.0
+Arsenal,Chelsea,0.0,0.0,D,2013-2014,0.0
+Hull City,Manchester United,2.0,3.0,A,2013-2014,5.0
+Aston Villa,Crystal Palace,0.0,1.0,A,2013-2014,1.0
+Cardiff City,Southampton,0.0,3.0,A,2013-2014,3.0
+Chelsea,Swansea City,1.0,0.0,H,2013-2014,1.0
+Everton,Sunderland,0.0,1.0,A,2013-2014,1.0
+Newcastle United,Stoke City,5.0,1.0,H,2013-2014,6.0
+Norwich City,Fulham,1.0,2.0,A,2013-2014,3.0
+Tottenham Hotspur,West Bromwich Albion,1.0,1.0,D,2013-2014,2.0
+West Ham United,Arsenal,1.0,3.0,A,2013-2014,4.0
+Manchester City,Liverpool,2.0,1.0,H,2013-2014,3.0
+West Ham United,West Bromwich Albion,3.0,3.0,D,2013-2014,6.0
+Aston Villa,Swansea City,1.0,1.0,D,2013-2014,2.0
+Hull City,Fulham,6.0,0.0,H,2013-2014,6.0
+Manchester City,Crystal Palace,1.0,0.0,H,2013-2014,1.0
+Norwich City,Manchester United,0.0,1.0,A,2013-2014,1.0
+Cardiff City,Sunderland,2.0,2.0,D,2013-2014,4.0
+Everton,Southampton,2.0,1.0,H,2013-2014,3.0
+Newcastle United,Arsenal,0.0,1.0,A,2013-2014,1.0
+Chelsea,Liverpool,2.0,1.0,H,2013-2014,3.0
+Tottenham Hotspur,Stoke City,3.0,0.0,H,2013-2014,3.0
+Swansea City,Manchester City,2.0,3.0,A,2013-2014,5.0
+Arsenal,Cardiff City,2.0,0.0,H,2013-2014,2.0
+Crystal Palace,Norwich City,1.0,1.0,D,2013-2014,2.0
+Fulham,West Ham United,2.0,1.0,H,2013-2014,3.0
+Liverpool,Hull City,2.0,0.0,H,2013-2014,2.0
+Southampton,Chelsea,0.0,3.0,A,2013-2014,3.0
+Stoke City,Everton,1.0,1.0,D,2013-2014,2.0
+Sunderland,Aston Villa,0.0,1.0,A,2013-2014,1.0
+West Bromwich Albion,Newcastle United,1.0,0.0,H,2013-2014,1.0
+Manchester United,Tottenham Hotspur,1.0,2.0,A,2013-2014,3.0
+Hull City,Chelsea,0.0,2.0,A,2013-2014,2.0
+Cardiff City,West Ham United,0.0,2.0,A,2013-2014,2.0
+Everton,Norwich City,2.0,0.0,H,2013-2014,2.0
+Fulham,Sunderland,1.0,4.0,A,2013-2014,5.0
+Southampton,West Bromwich Albion,1.0,0.0,H,2013-2014,1.0
+Tottenham Hotspur,Crystal Palace,2.0,0.0,H,2013-2014,2.0
+Manchester United,Swansea City,2.0,0.0,H,2013-2014,2.0
+Newcastle United,Manchester City,0.0,2.0,A,2013-2014,2.0
+Stoke City,Liverpool,3.0,5.0,A,2013-2014,8.0
+Aston Villa,Arsenal,1.0,2.0,A,2013-2014,3.0
+Sunderland,Southampton,2.0,2.0,D,2013-2014,4.0
+Arsenal,Fulham,2.0,0.0,H,2013-2014,2.0
+Crystal Palace,Stoke City,1.0,0.0,H,2013-2014,1.0
+Manchester City,Cardiff City,4.0,2.0,H,2013-2014,6.0
+Norwich City,Hull City,1.0,0.0,H,2013-2014,1.0
+West Ham United,Newcastle United,1.0,3.0,A,2013-2014,4.0
+Liverpool,Aston Villa,2.0,2.0,D,2013-2014,4.0
+Swansea City,Tottenham Hotspur,1.0,3.0,A,2013-2014,4.0
+Chelsea,Manchester United,3.0,1.0,H,2013-2014,4.0
+West Bromwich Albion,Everton,1.0,1.0,D,2013-2014,2.0
+Manchester United,Cardiff City,2.0,0.0,H,2013-2014,2.0
+Norwich City,Newcastle United,0.0,0.0,D,2013-2014,0.0
+Southampton,Arsenal,2.0,2.0,D,2013-2014,4.0
+Swansea City,Fulham,2.0,0.0,H,2013-2014,2.0
+Crystal Palace,Hull City,1.0,0.0,H,2013-2014,1.0
+Liverpool,Everton,4.0,0.0,H,2013-2014,4.0
+Aston Villa,West Bromwich Albion,4.0,3.0,H,2013-2014,7.0
+Chelsea,West Ham United,0.0,0.0,D,2013-2014,0.0
+Sunderland,Stoke City,1.0,0.0,H,2013-2014,1.0
+Tottenham Hotspur,Manchester City,1.0,5.0,A,2013-2014,6.0
+Newcastle United,Sunderland,0.0,3.0,A,2013-2014,3.0
+West Ham United,Swansea City,2.0,0.0,H,2013-2014,2.0
+Cardiff City,Norwich City,2.0,1.0,H,2013-2014,3.0
+Everton,Aston Villa,2.0,1.0,H,2013-2014,3.0
+Fulham,Southampton,0.0,3.0,A,2013-2014,3.0
+Hull City,Tottenham Hotspur,1.0,1.0,D,2013-2014,2.0
+Stoke City,Manchester United,2.0,1.0,H,2013-2014,3.0
+West Bromwich Albion,Liverpool,1.0,1.0,D,2013-2014,2.0
+Arsenal,Crystal Palace,2.0,0.0,H,2013-2014,2.0
+Manchester City,Chelsea,0.0,1.0,A,2013-2014,1.0
+Liverpool,Arsenal,5.0,1.0,H,2013-2014,6.0
+Aston Villa,West Ham United,0.0,2.0,A,2013-2014,2.0
+Chelsea,Newcastle United,3.0,0.0,H,2013-2014,3.0
+Crystal Palace,West Bromwich Albion,3.0,1.0,H,2013-2014,4.0
+Norwich City,Manchester City,0.0,0.0,D,2013-2014,0.0
+Southampton,Stoke City,2.0,2.0,D,2013-2014,4.0
+Sunderland,Hull City,0.0,2.0,A,2013-2014,2.0
+Swansea City,Cardiff City,3.0,0.0,H,2013-2014,3.0
+Tottenham Hotspur,Everton,1.0,0.0,H,2013-2014,1.0
+Manchester United,Fulham,2.0,2.0,D,2013-2014,4.0
+Cardiff City,Aston Villa,0.0,0.0,D,2013-2014,0.0
+Hull City,Southampton,0.0,1.0,A,2013-2014,1.0
+West Ham United,Norwich City,2.0,0.0,H,2013-2014,2.0
+West Bromwich Albion,Chelsea,1.0,1.0,D,2013-2014,2.0
+Arsenal,Manchester United,0.0,0.0,D,2013-2014,0.0
+Newcastle United,Tottenham Hotspur,0.0,4.0,A,2013-2014,4.0
+Stoke City,Swansea City,1.0,1.0,D,2013-2014,2.0
+Fulham,Liverpool,2.0,3.0,A,2013-2014,5.0
+Chelsea,Everton,1.0,0.0,H,2013-2014,1.0
+Arsenal,Sunderland,4.0,1.0,H,2013-2014,5.0
+Cardiff City,Hull City,0.0,4.0,A,2013-2014,4.0
+Manchester City,Stoke City,1.0,0.0,H,2013-2014,1.0
+West Bromwich Albion,Fulham,1.0,1.0,D,2013-2014,2.0
+West Ham United,Southampton,3.0,1.0,H,2013-2014,4.0
+Crystal Palace,Manchester United,0.0,2.0,A,2013-2014,2.0
+Liverpool,Swansea City,4.0,3.0,H,2013-2014,7.0
+Newcastle United,Aston Villa,1.0,0.0,H,2013-2014,1.0
+Norwich City,Tottenham Hotspur,1.0,0.0,H,2013-2014,1.0
+Everton,West Ham United,1.0,0.0,H,2013-2014,1.0
+Fulham,Chelsea,1.0,3.0,A,2013-2014,4.0
+Hull City,Newcastle United,1.0,4.0,A,2013-2014,5.0
+Stoke City,Arsenal,1.0,0.0,H,2013-2014,1.0
+Southampton,Liverpool,0.0,3.0,A,2013-2014,3.0
+Aston Villa,Norwich City,4.0,1.0,H,2013-2014,5.0
+Swansea City,Crystal Palace,1.0,1.0,D,2013-2014,2.0
+Tottenham Hotspur,Cardiff City,1.0,0.0,H,2013-2014,1.0
+West Bromwich Albion,Manchester United,0.0,3.0,A,2013-2014,3.0
+Cardiff City,Fulham,3.0,1.0,H,2013-2014,4.0
+Crystal Palace,Southampton,0.0,1.0,A,2013-2014,1.0
+Norwich City,Stoke City,1.0,1.0,D,2013-2014,2.0
+Chelsea,Tottenham Hotspur,4.0,0.0,H,2013-2014,4.0
+Hull City,Manchester City,0.0,2.0,A,2013-2014,2.0
+Everton,Cardiff City,2.0,1.0,H,2013-2014,3.0
+Fulham,Newcastle United,1.0,0.0,H,2013-2014,1.0
+Southampton,Norwich City,4.0,2.0,H,2013-2014,6.0
+Stoke City,West Ham United,3.0,1.0,H,2013-2014,4.0
+Sunderland,Crystal Palace,0.0,0.0,D,2013-2014,0.0
+Swansea City,West Bromwich Albion,1.0,2.0,A,2013-2014,3.0
+Aston Villa,Chelsea,1.0,0.0,H,2013-2014,1.0
+Manchester United,Liverpool,0.0,3.0,A,2013-2014,3.0
+Tottenham Hotspur,Arsenal,0.0,1.0,A,2013-2014,1.0
+Chelsea,Arsenal,6.0,0.0,H,2013-2014,6.0
+Cardiff City,Liverpool,3.0,6.0,A,2013-2014,9.0
+Everton,Swansea City,3.0,2.0,H,2013-2014,5.0
+Hull City,West Bromwich Albion,2.0,0.0,H,2013-2014,2.0
+Manchester City,Fulham,5.0,0.0,H,2013-2014,5.0
+Newcastle United,Crystal Palace,1.0,0.0,H,2013-2014,1.0
+Norwich City,Sunderland,2.0,0.0,H,2013-2014,2.0
+West Ham United,Manchester United,0.0,2.0,A,2013-2014,2.0
+Tottenham Hotspur,Southampton,3.0,2.0,H,2013-2014,5.0
+Aston Villa,Stoke City,1.0,4.0,A,2013-2014,5.0
+Arsenal,Swansea City,2.0,2.0,D,2013-2014,4.0
+Manchester United,Manchester City,0.0,3.0,A,2013-2014,3.0
+Newcastle United,Everton,0.0,3.0,A,2013-2014,3.0
+West Ham United,Hull City,2.0,1.0,H,2013-2014,3.0
+Liverpool,Sunderland,2.0,1.0,H,2013-2014,3.0
+Manchester United,Aston Villa,4.0,1.0,H,2013-2014,5.0
+Crystal Palace,Chelsea,1.0,0.0,H,2013-2014,1.0
+Southampton,Newcastle United,4.0,0.0,H,2013-2014,4.0
+Stoke City,Hull City,1.0,0.0,H,2013-2014,1.0
+Swansea City,Norwich City,3.0,0.0,H,2013-2014,3.0
+West Bromwich Albion,Cardiff City,3.0,3.0,D,2013-2014,6.0
+Arsenal,Manchester City,1.0,1.0,D,2013-2014,2.0
+Fulham,Everton,1.0,3.0,A,2013-2014,4.0
+Liverpool,Tottenham Hotspur,4.0,0.0,H,2013-2014,4.0
+Sunderland,West Ham United,1.0,2.0,A,2013-2014,3.0
+Manchester City,Southampton,4.0,1.0,H,2013-2014,5.0
+Aston Villa,Fulham,1.0,2.0,A,2013-2014,3.0
+Cardiff City,Crystal Palace,0.0,3.0,A,2013-2014,3.0
+Hull City,Swansea City,1.0,0.0,H,2013-2014,1.0
+Newcastle United,Manchester United,0.0,4.0,A,2013-2014,4.0
+Norwich City,West Bromwich Albion,0.0,1.0,A,2013-2014,1.0
+Chelsea,Stoke City,3.0,0.0,H,2013-2014,3.0
+Everton,Arsenal,3.0,0.0,H,2013-2014,3.0
+West Ham United,Liverpool,1.0,2.0,A,2013-2014,3.0
+Tottenham Hotspur,Sunderland,5.0,1.0,H,2013-2014,6.0
+Crystal Palace,Aston Villa,1.0,0.0,H,2013-2014,1.0
+Fulham,Norwich City,1.0,0.0,H,2013-2014,1.0
+Southampton,Cardiff City,0.0,1.0,A,2013-2014,1.0
+Stoke City,Newcastle United,1.0,0.0,H,2013-2014,1.0
+Sunderland,Everton,0.0,1.0,A,2013-2014,1.0
+West Bromwich Albion,Tottenham Hotspur,3.0,3.0,D,2013-2014,6.0
+Liverpool,Manchester City,3.0,2.0,H,2013-2014,5.0
+Swansea City,Chelsea,0.0,1.0,A,2013-2014,1.0
+Arsenal,West Ham United,3.0,1.0,H,2013-2014,4.0
+Everton,Crystal Palace,2.0,3.0,A,2013-2014,5.0
+Manchester City,Sunderland,2.0,2.0,D,2013-2014,4.0
+Tottenham Hotspur,Fulham,3.0,1.0,H,2013-2014,4.0
+Aston Villa,Southampton,0.0,0.0,D,2013-2014,0.0
+Cardiff City,Stoke City,1.0,1.0,D,2013-2014,2.0
+Newcastle United,Swansea City,1.0,2.0,A,2013-2014,3.0
+West Ham United,Crystal Palace,0.0,1.0,A,2013-2014,1.0
+Chelsea,Sunderland,1.0,2.0,A,2013-2014,3.0
+Norwich City,Liverpool,2.0,3.0,A,2013-2014,5.0
+Hull City,Arsenal,0.0,3.0,A,2013-2014,3.0
+Everton,Manchester United,2.0,0.0,H,2013-2014,2.0
+Manchester City,West Bromwich Albion,3.0,1.0,H,2013-2014,4.0
+Southampton,Everton,2.0,0.0,H,2013-2014,2.0
+Fulham,Hull City,2.0,2.0,D,2013-2014,4.0
+Stoke City,Tottenham Hotspur,0.0,1.0,A,2013-2014,1.0
+Swansea City,Aston Villa,4.0,1.0,H,2013-2014,5.0
+West Bromwich Albion,West Ham United,1.0,0.0,H,2013-2014,1.0
+Manchester United,Norwich City,4.0,0.0,H,2013-2014,4.0
+Sunderland,Cardiff City,4.0,0.0,H,2013-2014,4.0
+Liverpool,Chelsea,0.0,2.0,A,2013-2014,2.0
+Crystal Palace,Manchester City,0.0,2.0,A,2013-2014,2.0
+Arsenal,Newcastle United,3.0,0.0,H,2013-2014,3.0
+West Ham United,Tottenham Hotspur,2.0,0.0,H,2013-2014,2.0
+Aston Villa,Hull City,3.0,1.0,H,2013-2014,4.0
+Manchester United,Sunderland,0.0,1.0,A,2013-2014,1.0
+Newcastle United,Cardiff City,3.0,0.0,H,2013-2014,3.0
+Stoke City,Fulham,4.0,1.0,H,2013-2014,5.0
+Swansea City,Southampton,0.0,1.0,A,2013-2014,1.0
+Everton,Manchester City,2.0,3.0,A,2013-2014,5.0
+Arsenal,West Bromwich Albion,1.0,0.0,H,2013-2014,1.0
+Chelsea,Norwich City,0.0,0.0,D,2013-2014,0.0
+Crystal Palace,Liverpool,3.0,3.0,D,2013-2014,6.0
+Manchester United,Hull City,3.0,1.0,H,2013-2014,4.0
+Manchester City,Aston Villa,4.0,0.0,H,2013-2014,4.0
+Sunderland,West Bromwich Albion,2.0,0.0,H,2013-2014,2.0
+Cardiff City,Chelsea,1.0,2.0,A,2013-2014,3.0
+Fulham,Crystal Palace,2.0,2.0,D,2013-2014,4.0
+Hull City,Everton,0.0,2.0,A,2013-2014,2.0
+Liverpool,Newcastle United,2.0,1.0,H,2013-2014,3.0
+Manchester City,West Ham United,2.0,0.0,H,2013-2014,2.0
+Norwich City,Arsenal,0.0,2.0,A,2013-2014,2.0
+Southampton,Manchester United,1.0,1.0,D,2013-2014,2.0
+Sunderland,Swansea City,1.0,3.0,A,2013-2014,4.0
+Tottenham Hotspur,Aston Villa,3.0,0.0,H,2013-2014,3.0
+West Bromwich Albion,Stoke City,1.0,2.0,A,2013-2014,3.0

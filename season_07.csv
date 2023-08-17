@@ -1,0 +1,381 @@
+home_team,away_team,home_goals,away_goals,result,season,total_goals
+Sheffield United,Liverpool,1.0,1.0,D,2006-2007,2.0
+Arsenal,Aston Villa,1.0,1.0,D,2006-2007,2.0
+Everton,Watford,2.0,1.0,H,2006-2007,3.0
+Newcastle United,Wigan Athletic,2.0,1.0,H,2006-2007,3.0
+Portsmouth,Blackburn Rovers,3.0,0.0,H,2006-2007,3.0
+Reading,Middlesbrough,3.0,2.0,H,2006-2007,5.0
+West Ham United,Charlton Athletic,3.0,1.0,H,2006-2007,4.0
+Bolton Wanderers,Tottenham Hotspur,2.0,0.0,H,2006-2007,2.0
+Manchester United,Fulham,5.0,1.0,H,2006-2007,6.0
+Chelsea,Manchester City,3.0,0.0,H,2006-2007,3.0
+Watford,West Ham United,1.0,1.0,D,2006-2007,2.0
+Tottenham Hotspur,Sheffield United,2.0,0.0,H,2006-2007,2.0
+Aston Villa,Reading,2.0,1.0,H,2006-2007,3.0
+Manchester City,Portsmouth,0.0,0.0,D,2006-2007,0.0
+Blackburn Rovers,Everton,1.0,1.0,D,2006-2007,2.0
+Charlton Athletic,Manchester United,0.0,3.0,A,2006-2007,3.0
+Fulham,Bolton Wanderers,1.0,1.0,D,2006-2007,2.0
+Middlesbrough,Chelsea,2.0,1.0,H,2006-2007,3.0
+Liverpool,West Ham United,2.0,1.0,H,2006-2007,3.0
+Charlton Athletic,Bolton Wanderers,2.0,0.0,H,2006-2007,2.0
+Fulham,Sheffield United,1.0,0.0,H,2006-2007,1.0
+Tottenham Hotspur,Everton,0.0,2.0,A,2006-2007,2.0
+Watford,Manchester United,1.0,2.0,A,2006-2007,3.0
+Wigan Athletic,Reading,1.0,0.0,H,2006-2007,1.0
+Manchester City,Arsenal,1.0,0.0,H,2006-2007,1.0
+Aston Villa,Newcastle United,2.0,0.0,H,2006-2007,2.0
+Blackburn Rovers,Chelsea,0.0,2.0,A,2006-2007,2.0
+Middlesbrough,Portsmouth,0.0,4.0,A,2006-2007,4.0
+Everton,Liverpool,3.0,0.0,H,2006-2007,3.0
+Arsenal,Middlesbrough,1.0,1.0,D,2006-2007,2.0
+Bolton Wanderers,Watford,1.0,0.0,H,2006-2007,1.0
+Chelsea,Charlton Athletic,2.0,1.0,H,2006-2007,3.0
+Newcastle United,Fulham,1.0,2.0,A,2006-2007,3.0
+Portsmouth,Wigan Athletic,1.0,0.0,H,2006-2007,1.0
+Sheffield United,Blackburn Rovers,0.0,0.0,D,2006-2007,0.0
+Manchester United,Tottenham Hotspur,1.0,0.0,H,2006-2007,1.0
+West Ham United,Aston Villa,1.0,1.0,D,2006-2007,2.0
+Reading,Manchester City,1.0,0.0,H,2006-2007,1.0
+Charlton Athletic,Portsmouth,0.0,1.0,A,2006-2007,1.0
+Bolton Wanderers,Middlesbrough,0.0,0.0,D,2006-2007,0.0
+Everton,Wigan Athletic,2.0,2.0,D,2006-2007,4.0
+Sheffield United,Reading,1.0,2.0,A,2006-2007,3.0
+Watford,Aston Villa,0.0,0.0,D,2006-2007,0.0
+Chelsea,Liverpool,1.0,0.0,H,2006-2007,1.0
+Blackburn Rovers,Manchester City,4.0,2.0,H,2006-2007,6.0
+Tottenham Hotspur,Fulham,0.0,0.0,D,2006-2007,0.0
+West Ham United,Newcastle United,0.0,2.0,A,2006-2007,2.0
+Manchester United,Arsenal,0.0,1.0,A,2006-2007,1.0
+Liverpool,Newcastle United,2.0,0.0,H,2006-2007,2.0
+Liverpool,Tottenham Hotspur,3.0,0.0,H,2006-2007,3.0
+Arsenal,Sheffield United,3.0,0.0,H,2006-2007,3.0
+Aston Villa,Charlton Athletic,2.0,0.0,H,2006-2007,2.0
+Fulham,Chelsea,0.0,2.0,A,2006-2007,2.0
+Manchester City,West Ham United,2.0,0.0,H,2006-2007,2.0
+Middlesbrough,Blackburn Rovers,0.0,1.0,A,2006-2007,1.0
+Wigan Athletic,Watford,1.0,1.0,D,2006-2007,2.0
+Reading,Manchester United,1.0,1.0,D,2006-2007,2.0
+Newcastle United,Everton,1.0,1.0,D,2006-2007,2.0
+Portsmouth,Bolton Wanderers,0.0,1.0,A,2006-2007,1.0
+Bolton Wanderers,Liverpool,2.0,0.0,H,2006-2007,2.0
+Charlton Athletic,Arsenal,1.0,2.0,A,2006-2007,3.0
+Chelsea,Aston Villa,1.0,1.0,D,2006-2007,2.0
+Everton,Manchester City,1.0,1.0,D,2006-2007,2.0
+Sheffield United,Middlesbrough,2.0,1.0,H,2006-2007,3.0
+West Ham United,Reading,0.0,1.0,A,2006-2007,1.0
+Blackburn Rovers,Wigan Athletic,2.0,1.0,H,2006-2007,3.0
+Manchester United,Newcastle United,2.0,0.0,H,2006-2007,2.0
+Tottenham Hotspur,Portsmouth,2.0,1.0,H,2006-2007,3.0
+Watford,Fulham,3.0,3.0,D,2006-2007,6.0
+Wigan Athletic,Manchester United,1.0,3.0,A,2006-2007,4.0
+Arsenal,Watford,3.0,0.0,H,2006-2007,3.0
+Aston Villa,Tottenham Hotspur,1.0,1.0,D,2006-2007,2.0
+Liverpool,Blackburn Rovers,1.0,1.0,D,2006-2007,2.0
+Manchester City,Sheffield United,0.0,0.0,D,2006-2007,0.0
+Middlesbrough,Everton,2.0,1.0,H,2006-2007,3.0
+Portsmouth,West Ham United,2.0,0.0,H,2006-2007,2.0
+Reading,Chelsea,0.0,1.0,A,2006-2007,1.0
+Newcastle United,Bolton Wanderers,1.0,2.0,A,2006-2007,3.0
+Fulham,Charlton Athletic,2.0,1.0,H,2006-2007,3.0
+Wigan Athletic,Manchester City,4.0,0.0,H,2006-2007,4.0
+Charlton Athletic,Watford,0.0,0.0,D,2006-2007,0.0
+Chelsea,Portsmouth,2.0,1.0,H,2006-2007,3.0
+Everton,Sheffield United,2.0,0.0,H,2006-2007,2.0
+Aston Villa,Fulham,1.0,1.0,D,2006-2007,2.0
+Manchester United,Liverpool,2.0,0.0,H,2006-2007,2.0
+Blackburn Rovers,Bolton Wanderers,0.0,1.0,A,2006-2007,1.0
+Middlesbrough,Newcastle United,1.0,0.0,H,2006-2007,1.0
+Tottenham Hotspur,West Ham United,1.0,0.0,H,2006-2007,1.0
+Reading,Arsenal,0.0,4.0,A,2006-2007,4.0
+Sheffield United,Chelsea,0.0,2.0,A,2006-2007,2.0
+Arsenal,Everton,1.0,1.0,D,2006-2007,2.0
+Bolton Wanderers,Manchester United,0.0,4.0,A,2006-2007,4.0
+Fulham,Wigan Athletic,0.0,1.0,A,2006-2007,1.0
+Liverpool,Aston Villa,3.0,1.0,H,2006-2007,4.0
+Portsmouth,Reading,3.0,1.0,H,2006-2007,4.0
+Watford,Tottenham Hotspur,0.0,0.0,D,2006-2007,0.0
+Newcastle United,Charlton Athletic,0.0,0.0,D,2006-2007,0.0
+West Ham United,Blackburn Rovers,2.0,1.0,H,2006-2007,3.0
+Manchester City,Middlesbrough,1.0,0.0,H,2006-2007,1.0
+Fulham,Everton,1.0,0.0,H,2006-2007,1.0
+Bolton Wanderers,Wigan Athletic,0.0,1.0,A,2006-2007,1.0
+Charlton Athletic,Manchester City,1.0,0.0,H,2006-2007,1.0
+Liverpool,Reading,2.0,0.0,H,2006-2007,2.0
+Manchester United,Portsmouth,3.0,0.0,H,2006-2007,3.0
+Watford,Middlesbrough,2.0,0.0,H,2006-2007,2.0
+Newcastle United,Sheffield United,0.0,1.0,A,2006-2007,1.0
+West Ham United,Arsenal,1.0,0.0,H,2006-2007,1.0
+Aston Villa,Blackburn Rovers,2.0,0.0,H,2006-2007,2.0
+Tottenham Hotspur,Chelsea,2.0,1.0,H,2006-2007,3.0
+Manchester City,Newcastle United,0.0,0.0,D,2006-2007,0.0
+Chelsea,Watford,4.0,0.0,H,2006-2007,4.0
+Everton,Aston Villa,0.0,1.0,A,2006-2007,1.0
+Middlesbrough,West Ham United,1.0,0.0,H,2006-2007,1.0
+Portsmouth,Fulham,1.0,1.0,D,2006-2007,2.0
+Sheffield United,Bolton Wanderers,2.0,2.0,D,2006-2007,4.0
+Wigan Athletic,Charlton Athletic,3.0,2.0,H,2006-2007,5.0
+Blackburn Rovers,Manchester United,0.0,1.0,A,2006-2007,1.0
+Reading,Tottenham Hotspur,3.0,1.0,H,2006-2007,4.0
+Arsenal,Liverpool,3.0,0.0,H,2006-2007,3.0
+Manchester City,Fulham,3.0,1.0,H,2006-2007,4.0
+Arsenal,Newcastle United,1.0,1.0,D,2006-2007,2.0
+Chelsea,West Ham United,1.0,0.0,H,2006-2007,1.0
+Everton,Bolton Wanderers,1.0,0.0,H,2006-2007,1.0
+Portsmouth,Watford,2.0,1.0,H,2006-2007,3.0
+Reading,Charlton Athletic,2.0,0.0,H,2006-2007,2.0
+Sheffield United,Manchester United,1.0,2.0,A,2006-2007,3.0
+Middlesbrough,Liverpool,0.0,0.0,D,2006-2007,0.0
+Wigan Athletic,Aston Villa,0.0,0.0,D,2006-2007,0.0
+Blackburn Rovers,Tottenham Hotspur,1.0,1.0,D,2006-2007,2.0
+Charlton Athletic,Everton,1.0,1.0,D,2006-2007,2.0
+Aston Villa,Middlesbrough,1.0,1.0,D,2006-2007,2.0
+Fulham,Reading,0.0,1.0,A,2006-2007,1.0
+Liverpool,Manchester City,1.0,0.0,H,2006-2007,1.0
+West Ham United,Sheffield United,1.0,0.0,H,2006-2007,1.0
+Bolton Wanderers,Arsenal,3.0,1.0,H,2006-2007,4.0
+Newcastle United,Portsmouth,1.0,0.0,H,2006-2007,1.0
+Tottenham Hotspur,Wigan Athletic,3.0,1.0,H,2006-2007,4.0
+Manchester United,Chelsea,1.0,1.0,D,2006-2007,2.0
+Watford,Sheffield United,0.0,1.0,A,2006-2007,1.0
+Aston Villa,Manchester City,1.0,3.0,A,2006-2007,4.0
+Fulham,Arsenal,2.0,1.0,H,2006-2007,3.0
+Bolton Wanderers,Chelsea,0.0,1.0,A,2006-2007,1.0
+Liverpool,Portsmouth,0.0,0.0,D,2006-2007,0.0
+Manchester United,Everton,3.0,0.0,H,2006-2007,3.0
+Arsenal,Tottenham Hotspur,3.0,0.0,H,2006-2007,3.0
+Blackburn Rovers,Fulham,2.0,0.0,H,2006-2007,2.0
+Portsmouth,Aston Villa,2.0,2.0,D,2006-2007,4.0
+Reading,Bolton Wanderers,1.0,0.0,H,2006-2007,1.0
+Sheffield United,Charlton Athletic,2.0,1.0,H,2006-2007,3.0
+Wigan Athletic,Liverpool,0.0,4.0,A,2006-2007,4.0
+Middlesbrough,Manchester United,1.0,2.0,A,2006-2007,3.0
+Everton,West Ham United,2.0,0.0,H,2006-2007,2.0
+Manchester City,Watford,0.0,0.0,D,2006-2007,0.0
+Charlton Athletic,Blackburn Rovers,1.0,0.0,H,2006-2007,1.0
+Tottenham Hotspur,Middlesbrough,2.0,1.0,H,2006-2007,3.0
+Newcastle United,Reading,3.0,2.0,H,2006-2007,5.0
+West Ham United,Wigan Athletic,0.0,2.0,A,2006-2007,2.0
+Manchester United,Manchester City,3.0,1.0,H,2006-2007,4.0
+Blackburn Rovers,Newcastle United,1.0,3.0,A,2006-2007,4.0
+Liverpool,Fulham,4.0,0.0,H,2006-2007,4.0
+Middlesbrough,Wigan Athletic,1.0,1.0,D,2006-2007,2.0
+Portsmouth,Everton,2.0,0.0,H,2006-2007,2.0
+Tottenham Hotspur,Charlton Athletic,5.0,1.0,H,2006-2007,6.0
+Watford,Reading,0.0,0.0,D,2006-2007,0.0
+Bolton Wanderers,West Ham United,4.0,0.0,H,2006-2007,4.0
+Chelsea,Arsenal,1.0,1.0,D,2006-2007,2.0
+Sheffield United,Aston Villa,2.0,2.0,D,2006-2007,4.0
+Chelsea,Newcastle United,1.0,0.0,H,2006-2007,1.0
+Wigan Athletic,Arsenal,0.0,1.0,A,2006-2007,1.0
+Charlton Athletic,Liverpool,0.0,3.0,A,2006-2007,3.0
+Arsenal,Portsmouth,2.0,2.0,D,2006-2007,4.0
+Newcastle United,Watford,2.0,1.0,H,2006-2007,3.0
+Reading,Blackburn Rovers,1.0,2.0,A,2006-2007,3.0
+Wigan Athletic,Sheffield United,0.0,1.0,A,2006-2007,1.0
+Aston Villa,Bolton Wanderers,0.0,1.0,A,2006-2007,1.0
+Everton,Chelsea,2.0,3.0,A,2006-2007,5.0
+Manchester City,Tottenham Hotspur,1.0,2.0,A,2006-2007,3.0
+West Ham United,Manchester United,1.0,0.0,H,2006-2007,1.0
+Fulham,Middlesbrough,2.0,1.0,H,2006-2007,3.0
+Fulham,West Ham United,0.0,0.0,D,2006-2007,0.0
+Arsenal,Blackburn Rovers,6.0,2.0,H,2006-2007,8.0
+Aston Villa,Manchester United,0.0,3.0,A,2006-2007,3.0
+Liverpool,Watford,2.0,0.0,H,2006-2007,2.0
+Manchester City,Bolton Wanderers,0.0,2.0,A,2006-2007,2.0
+Middlesbrough,Charlton Athletic,2.0,0.0,H,2006-2007,2.0
+Newcastle United,Tottenham Hotspur,3.0,1.0,H,2006-2007,4.0
+Portsmouth,Sheffield United,3.0,1.0,H,2006-2007,4.0
+Reading,Everton,0.0,2.0,A,2006-2007,2.0
+Wigan Athletic,Chelsea,2.0,3.0,A,2006-2007,5.0
+Chelsea,Reading,2.0,2.0,D,2006-2007,4.0
+Tottenham Hotspur,Aston Villa,2.0,1.0,H,2006-2007,3.0
+West Ham United,Portsmouth,1.0,2.0,A,2006-2007,3.0
+Blackburn Rovers,Liverpool,1.0,0.0,H,2006-2007,1.0
+Bolton Wanderers,Newcastle United,2.0,1.0,H,2006-2007,3.0
+Everton,Middlesbrough,0.0,0.0,D,2006-2007,0.0
+Manchester United,Wigan Athletic,3.0,1.0,H,2006-2007,4.0
+Sheffield United,Manchester City,0.0,1.0,A,2006-2007,1.0
+Watford,Arsenal,1.0,2.0,A,2006-2007,3.0
+Charlton Athletic,Fulham,2.0,2.0,D,2006-2007,4.0
+Charlton Athletic,Aston Villa,2.0,1.0,H,2006-2007,3.0
+Blackburn Rovers,Middlesbrough,2.0,1.0,H,2006-2007,3.0
+Bolton Wanderers,Portsmouth,3.0,2.0,H,2006-2007,5.0
+Chelsea,Fulham,2.0,2.0,D,2006-2007,4.0
+Everton,Newcastle United,3.0,0.0,H,2006-2007,3.0
+Manchester United,Reading,3.0,2.0,H,2006-2007,5.0
+Tottenham Hotspur,Liverpool,0.0,1.0,A,2006-2007,1.0
+West Ham United,Manchester City,0.0,1.0,A,2006-2007,1.0
+Sheffield United,Arsenal,1.0,0.0,H,2006-2007,1.0
+Liverpool,Bolton Wanderers,3.0,0.0,H,2006-2007,3.0
+Fulham,Watford,0.0,0.0,D,2006-2007,0.0
+Manchester City,Everton,2.0,1.0,H,2006-2007,3.0
+Middlesbrough,Sheffield United,3.0,1.0,H,2006-2007,4.0
+Portsmouth,Tottenham Hotspur,1.0,1.0,D,2006-2007,2.0
+Reading,West Ham United,6.0,0.0,H,2006-2007,6.0
+Wigan Athletic,Blackburn Rovers,0.0,3.0,A,2006-2007,3.0
+Newcastle United,Manchester United,2.0,2.0,D,2006-2007,4.0
+Arsenal,Charlton Athletic,4.0,0.0,H,2006-2007,4.0
+Aston Villa,Chelsea,0.0,0.0,D,2006-2007,0.0
+Watford,Liverpool,0.0,3.0,A,2006-2007,3.0
+Bolton Wanderers,Manchester City,0.0,0.0,D,2006-2007,0.0
+Charlton Athletic,Middlesbrough,1.0,3.0,A,2006-2007,4.0
+Chelsea,Wigan Athletic,4.0,0.0,H,2006-2007,4.0
+Manchester United,Aston Villa,3.0,1.0,H,2006-2007,4.0
+Sheffield United,Portsmouth,1.0,1.0,D,2006-2007,2.0
+West Ham United,Fulham,3.0,3.0,D,2006-2007,6.0
+Blackburn Rovers,Arsenal,0.0,2.0,A,2006-2007,2.0
+Everton,Reading,1.0,1.0,D,2006-2007,2.0
+Tottenham Hotspur,Newcastle United,2.0,3.0,A,2006-2007,5.0
+Liverpool,Chelsea,2.0,0.0,H,2006-2007,2.0
+Aston Villa,Watford,2.0,0.0,H,2006-2007,2.0
+Fulham,Tottenham Hotspur,1.0,1.0,D,2006-2007,2.0
+Middlesbrough,Bolton Wanderers,5.0,1.0,H,2006-2007,6.0
+Newcastle United,West Ham United,2.0,2.0,D,2006-2007,4.0
+Portsmouth,Charlton Athletic,0.0,1.0,A,2006-2007,1.0
+Reading,Sheffield United,3.0,1.0,H,2006-2007,4.0
+Manchester City,Blackburn Rovers,0.0,3.0,A,2006-2007,3.0
+Wigan Athletic,Everton,0.0,2.0,A,2006-2007,2.0
+Arsenal,Manchester United,2.0,1.0,H,2006-2007,3.0
+Watford,Blackburn Rovers,2.0,1.0,H,2006-2007,3.0
+Portsmouth,Middlesbrough,0.0,0.0,D,2006-2007,0.0
+Sheffield United,Fulham,2.0,0.0,H,2006-2007,2.0
+West Ham United,Liverpool,1.0,2.0,A,2006-2007,3.0
+Reading,Wigan Athletic,3.0,2.0,H,2006-2007,5.0
+Chelsea,Blackburn Rovers,3.0,0.0,H,2006-2007,3.0
+Bolton Wanderers,Charlton Athletic,1.0,1.0,D,2006-2007,2.0
+Manchester United,Watford,4.0,0.0,H,2006-2007,4.0
+Newcastle United,Aston Villa,3.0,1.0,H,2006-2007,4.0
+Liverpool,Everton,0.0,0.0,D,2006-2007,0.0
+Aston Villa,West Ham United,1.0,0.0,H,2006-2007,1.0
+Blackburn Rovers,Sheffield United,2.0,1.0,H,2006-2007,3.0
+Charlton Athletic,Chelsea,0.0,1.0,A,2006-2007,1.0
+Fulham,Newcastle United,2.0,1.0,H,2006-2007,3.0
+Manchester City,Reading,0.0,2.0,A,2006-2007,2.0
+Watford,Bolton Wanderers,0.0,1.0,A,2006-2007,1.0
+Wigan Athletic,Portsmouth,1.0,0.0,H,2006-2007,1.0
+Middlesbrough,Arsenal,1.0,1.0,D,2006-2007,2.0
+Tottenham Hotspur,Manchester United,0.0,4.0,A,2006-2007,4.0
+Reading,Aston Villa,2.0,0.0,H,2006-2007,2.0
+Chelsea,Middlesbrough,3.0,0.0,H,2006-2007,3.0
+Everton,Blackburn Rovers,1.0,0.0,H,2006-2007,1.0
+Manchester United,Charlton Athletic,2.0,0.0,H,2006-2007,2.0
+Newcastle United,Liverpool,2.0,1.0,H,2006-2007,3.0
+Sheffield United,Tottenham Hotspur,2.0,1.0,H,2006-2007,3.0
+West Ham United,Watford,0.0,1.0,A,2006-2007,1.0
+Portsmouth,Manchester City,2.0,1.0,H,2006-2007,3.0
+Bolton Wanderers,Fulham,2.0,1.0,H,2006-2007,3.0
+Arsenal,Wigan Athletic,2.0,1.0,H,2006-2007,3.0
+Watford,Wigan Athletic,1.0,1.0,D,2006-2007,2.0
+Everton,Tottenham Hotspur,1.0,2.0,A,2006-2007,3.0
+Fulham,Manchester United,1.0,2.0,A,2006-2007,3.0
+Charlton Athletic,West Ham United,4.0,0.0,H,2006-2007,4.0
+Liverpool,Sheffield United,4.0,0.0,H,2006-2007,4.0
+Middlesbrough,Reading,2.0,1.0,H,2006-2007,3.0
+Watford,Everton,0.0,3.0,A,2006-2007,3.0
+Wigan Athletic,Newcastle United,1.0,0.0,H,2006-2007,1.0
+Blackburn Rovers,Portsmouth,3.0,0.0,H,2006-2007,3.0
+Tottenham Hotspur,Bolton Wanderers,4.0,1.0,H,2006-2007,5.0
+Liverpool,Manchester United,0.0,1.0,A,2006-2007,1.0
+Arsenal,Reading,2.0,1.0,H,2006-2007,3.0
+Fulham,Aston Villa,1.0,1.0,D,2006-2007,2.0
+Manchester City,Wigan Athletic,0.0,1.0,A,2006-2007,1.0
+Newcastle United,Middlesbrough,0.0,0.0,D,2006-2007,0.0
+Sheffield United,Everton,1.0,1.0,D,2006-2007,2.0
+Watford,Charlton Athletic,2.0,2.0,D,2006-2007,4.0
+Portsmouth,Chelsea,0.0,2.0,A,2006-2007,2.0
+Bolton Wanderers,Blackburn Rovers,1.0,2.0,A,2006-2007,3.0
+West Ham United,Tottenham Hotspur,3.0,4.0,A,2006-2007,7.0
+Aston Villa,Arsenal,0.0,1.0,A,2006-2007,1.0
+Manchester City,Chelsea,0.0,1.0,A,2006-2007,1.0
+Manchester United,Bolton Wanderers,4.0,1.0,H,2006-2007,5.0
+Chelsea,Sheffield United,3.0,0.0,H,2006-2007,3.0
+Middlesbrough,Manchester City,0.0,2.0,A,2006-2007,2.0
+Reading,Portsmouth,0.0,0.0,D,2006-2007,0.0
+Tottenham Hotspur,Watford,3.0,1.0,H,2006-2007,4.0
+Wigan Athletic,Fulham,0.0,0.0,D,2006-2007,0.0
+Blackburn Rovers,West Ham United,1.0,2.0,A,2006-2007,3.0
+Charlton Athletic,Newcastle United,2.0,0.0,H,2006-2007,2.0
+Aston Villa,Liverpool,0.0,0.0,D,2006-2007,0.0
+Everton,Arsenal,1.0,0.0,H,2006-2007,1.0
+Liverpool,Arsenal,4.0,1.0,H,2006-2007,5.0
+Bolton Wanderers,Sheffield United,1.0,0.0,H,2006-2007,1.0
+Charlton Athletic,Wigan Athletic,1.0,0.0,H,2006-2007,1.0
+Fulham,Portsmouth,1.0,1.0,D,2006-2007,2.0
+Manchester United,Blackburn Rovers,4.0,1.0,H,2006-2007,5.0
+Newcastle United,Manchester City,0.0,1.0,A,2006-2007,1.0
+West Ham United,Middlesbrough,2.0,0.0,H,2006-2007,2.0
+Watford,Chelsea,0.0,1.0,A,2006-2007,1.0
+Tottenham Hotspur,Reading,1.0,0.0,H,2006-2007,1.0
+Aston Villa,Everton,1.0,1.0,D,2006-2007,2.0
+Manchester City,Charlton Athletic,0.0,0.0,D,2006-2007,0.0
+Everton,Fulham,4.0,1.0,H,2006-2007,5.0
+Chelsea,Tottenham Hotspur,1.0,0.0,H,2006-2007,1.0
+Arsenal,West Ham United,0.0,1.0,A,2006-2007,1.0
+Blackburn Rovers,Aston Villa,1.0,2.0,A,2006-2007,3.0
+Middlesbrough,Watford,4.0,1.0,H,2006-2007,5.0
+Reading,Liverpool,1.0,2.0,A,2006-2007,3.0
+Sheffield United,Newcastle United,1.0,2.0,A,2006-2007,3.0
+Wigan Athletic,Bolton Wanderers,1.0,3.0,A,2006-2007,4.0
+Portsmouth,Manchester United,2.0,1.0,H,2006-2007,3.0
+Watford,Portsmouth,4.0,2.0,H,2006-2007,6.0
+Aston Villa,Wigan Athletic,1.0,1.0,D,2006-2007,2.0
+Bolton Wanderers,Everton,1.0,1.0,D,2006-2007,2.0
+Fulham,Manchester City,1.0,3.0,A,2006-2007,4.0
+Newcastle United,Arsenal,0.0,0.0,D,2006-2007,0.0
+Charlton Athletic,Reading,0.0,0.0,D,2006-2007,0.0
+Arsenal,Bolton Wanderers,2.0,1.0,H,2006-2007,3.0
+Manchester City,Liverpool,0.0,0.0,D,2006-2007,0.0
+Middlesbrough,Aston Villa,1.0,3.0,A,2006-2007,4.0
+Portsmouth,Newcastle United,2.0,1.0,H,2006-2007,3.0
+Reading,Fulham,1.0,0.0,H,2006-2007,1.0
+Sheffield United,West Ham United,3.0,0.0,H,2006-2007,3.0
+Wigan Athletic,Tottenham Hotspur,3.0,3.0,D,2006-2007,6.0
+Everton,Charlton Athletic,2.0,1.0,H,2006-2007,3.0
+Arsenal,Manchester City,3.0,1.0,H,2006-2007,4.0
+Manchester United,Sheffield United,2.0,0.0,H,2006-2007,2.0
+Blackburn Rovers,Watford,3.0,1.0,H,2006-2007,4.0
+Liverpool,Middlesbrough,2.0,0.0,H,2006-2007,2.0
+West Ham United,Chelsea,1.0,4.0,A,2006-2007,5.0
+Tottenham Hotspur,Arsenal,2.0,2.0,D,2006-2007,4.0
+Bolton Wanderers,Reading,1.0,3.0,A,2006-2007,4.0
+Charlton Athletic,Sheffield United,1.0,1.0,D,2006-2007,2.0
+Fulham,Blackburn Rovers,1.0,1.0,D,2006-2007,2.0
+Liverpool,Wigan Athletic,2.0,0.0,H,2006-2007,2.0
+Watford,Manchester City,1.0,1.0,D,2006-2007,2.0
+West Ham United,Everton,1.0,0.0,H,2006-2007,1.0
+Manchester United,Middlesbrough,1.0,1.0,D,2006-2007,2.0
+Newcastle United,Chelsea,0.0,0.0,D,2006-2007,0.0
+Aston Villa,Portsmouth,0.0,0.0,D,2006-2007,0.0
+Chelsea,Bolton Wanderers,2.0,2.0,D,2006-2007,4.0
+Everton,Manchester United,2.0,4.0,A,2006-2007,6.0
+Blackburn Rovers,Charlton Athletic,4.0,1.0,H,2006-2007,5.0
+Manchester City,Aston Villa,0.0,2.0,A,2006-2007,2.0
+Middlesbrough,Tottenham Hotspur,2.0,3.0,A,2006-2007,5.0
+Portsmouth,Liverpool,2.0,1.0,H,2006-2007,3.0
+Sheffield United,Watford,1.0,0.0,H,2006-2007,1.0
+Wigan Athletic,West Ham United,0.0,3.0,A,2006-2007,3.0
+Arsenal,Fulham,3.0,1.0,H,2006-2007,4.0
+Reading,Newcastle United,1.0,0.0,H,2006-2007,1.0
+Manchester City,Manchester United,0.0,1.0,A,2006-2007,1.0
+Everton,Portsmouth,3.0,0.0,H,2006-2007,3.0
+Fulham,Liverpool,1.0,0.0,H,2006-2007,1.0
+Newcastle United,Blackburn Rovers,0.0,2.0,A,2006-2007,2.0
+Reading,Watford,0.0,2.0,A,2006-2007,2.0
+West Ham United,Bolton Wanderers,3.0,1.0,H,2006-2007,4.0
+Wigan Athletic,Middlesbrough,0.0,1.0,A,2006-2007,1.0
+Aston Villa,Sheffield United,3.0,0.0,H,2006-2007,3.0
+Arsenal,Chelsea,1.0,1.0,D,2006-2007,2.0
+Charlton Athletic,Tottenham Hotspur,0.0,2.0,A,2006-2007,2.0
+Chelsea,Manchester United,0.0,0.0,D,2006-2007,0.0
+Tottenham Hotspur,Blackburn Rovers,1.0,1.0,D,2006-2007,2.0
+Blackburn Rovers,Reading,3.0,3.0,D,2006-2007,6.0
+Bolton Wanderers,Aston Villa,2.0,2.0,D,2006-2007,4.0
+Chelsea,Everton,1.0,1.0,D,2006-2007,2.0
+Liverpool,Charlton Athletic,2.0,2.0,D,2006-2007,4.0
+Manchester United,West Ham United,0.0,1.0,A,2006-2007,1.0
+Middlesbrough,Fulham,3.0,1.0,H,2006-2007,4.0
+Portsmouth,Arsenal,0.0,0.0,D,2006-2007,0.0
+Sheffield United,Wigan Athletic,1.0,2.0,A,2006-2007,3.0
+Tottenham Hotspur,Manchester City,2.0,1.0,H,2006-2007,3.0
+Watford,Newcastle United,1.0,1.0,D,2006-2007,2.0

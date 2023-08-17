@@ -1,0 +1,381 @@
+home_team,away_team,home_goals,away_goals,result,season,total_goals
+Chelsea,Hull City,2.0,1.0,H,2009-2010,3.0
+Aston Villa,Wigan Athletic,0.0,2.0,A,2009-2010,2.0
+Blackburn Rovers,Manchester City,0.0,2.0,A,2009-2010,2.0
+Bolton Wanderers,Sunderland,0.0,1.0,A,2009-2010,1.0
+Portsmouth,Fulham,0.0,1.0,A,2009-2010,1.0
+Stoke City,Burnley,2.0,0.0,H,2009-2010,2.0
+Wolverhampton Wanderers,West Ham United,0.0,2.0,A,2009-2010,2.0
+Everton,Arsenal,1.0,6.0,A,2009-2010,7.0
+Manchester United,Birmingham City,1.0,0.0,H,2009-2010,1.0
+Tottenham Hotspur,Liverpool,2.0,1.0,H,2009-2010,3.0
+Sunderland,Chelsea,1.0,3.0,A,2009-2010,4.0
+Wigan Athletic,Wolverhampton Wanderers,0.0,1.0,A,2009-2010,1.0
+Birmingham City,Portsmouth,1.0,0.0,H,2009-2010,1.0
+Burnley,Manchester United,1.0,0.0,H,2009-2010,1.0
+Hull City,Tottenham Hotspur,1.0,5.0,A,2009-2010,6.0
+Liverpool,Stoke City,4.0,0.0,H,2009-2010,4.0
+Arsenal,Portsmouth,4.0,1.0,H,2009-2010,5.0
+Birmingham City,Stoke City,0.0,0.0,D,2009-2010,0.0
+Hull City,Bolton Wanderers,1.0,0.0,H,2009-2010,1.0
+Manchester City,Wolverhampton Wanderers,1.0,0.0,H,2009-2010,1.0
+Sunderland,Blackburn Rovers,2.0,1.0,H,2009-2010,3.0
+Wigan Athletic,Manchester United,0.0,5.0,A,2009-2010,5.0
+West Ham United,Tottenham Hotspur,1.0,2.0,A,2009-2010,3.0
+Burnley,Everton,1.0,0.0,H,2009-2010,1.0
+Fulham,Chelsea,0.0,2.0,A,2009-2010,2.0
+Liverpool,Aston Villa,1.0,3.0,A,2009-2010,4.0
+Chelsea,Burnley,3.0,0.0,H,2009-2010,3.0
+Blackburn Rovers,West Ham United,0.0,0.0,D,2009-2010,0.0
+Bolton Wanderers,Liverpool,2.0,3.0,A,2009-2010,5.0
+Stoke City,Sunderland,1.0,0.0,H,2009-2010,1.0
+Tottenham Hotspur,Birmingham City,2.0,1.0,H,2009-2010,3.0
+Wolverhampton Wanderers,Hull City,1.0,1.0,D,2009-2010,2.0
+Manchester United,Arsenal,2.0,1.0,H,2009-2010,3.0
+Portsmouth,Manchester City,0.0,1.0,A,2009-2010,1.0
+Everton,Wigan Athletic,2.0,1.0,H,2009-2010,3.0
+Aston Villa,Fulham,2.0,0.0,H,2009-2010,2.0
+Blackburn Rovers,Wolverhampton Wanderers,3.0,1.0,H,2009-2010,4.0
+Liverpool,Burnley,4.0,0.0,H,2009-2010,4.0
+Manchester City,Arsenal,4.0,2.0,H,2009-2010,6.0
+Portsmouth,Bolton Wanderers,2.0,3.0,A,2009-2010,5.0
+Stoke City,Chelsea,1.0,2.0,A,2009-2010,3.0
+Sunderland,Hull City,4.0,1.0,H,2009-2010,5.0
+Wigan Athletic,West Ham United,1.0,0.0,H,2009-2010,1.0
+Tottenham Hotspur,Manchester United,1.0,3.0,A,2009-2010,4.0
+Birmingham City,Aston Villa,0.0,1.0,A,2009-2010,1.0
+Fulham,Everton,2.0,1.0,H,2009-2010,3.0
+Burnley,Sunderland,3.0,1.0,H,2009-2010,4.0
+Arsenal,Wigan Athletic,4.0,0.0,H,2009-2010,4.0
+Aston Villa,Portsmouth,2.0,0.0,H,2009-2010,2.0
+Bolton Wanderers,Stoke City,1.0,1.0,D,2009-2010,2.0
+Hull City,Birmingham City,0.0,1.0,A,2009-2010,1.0
+West Ham United,Liverpool,2.0,3.0,A,2009-2010,5.0
+Manchester United,Manchester City,4.0,3.0,H,2009-2010,7.0
+Wolverhampton Wanderers,Fulham,2.0,1.0,H,2009-2010,3.0
+Everton,Blackburn Rovers,3.0,0.0,H,2009-2010,3.0
+Chelsea,Tottenham Hotspur,3.0,0.0,H,2009-2010,3.0
+Portsmouth,Everton,0.0,1.0,A,2009-2010,1.0
+Birmingham City,Bolton Wanderers,1.0,2.0,A,2009-2010,3.0
+Blackburn Rovers,Aston Villa,2.0,1.0,H,2009-2010,3.0
+Liverpool,Hull City,6.0,1.0,H,2009-2010,7.0
+Stoke City,Manchester United,0.0,2.0,A,2009-2010,2.0
+Tottenham Hotspur,Burnley,5.0,0.0,H,2009-2010,5.0
+Wigan Athletic,Chelsea,3.0,1.0,H,2009-2010,4.0
+Fulham,Arsenal,0.0,1.0,A,2009-2010,1.0
+Sunderland,Wolverhampton Wanderers,5.0,2.0,H,2009-2010,7.0
+Manchester City,West Ham United,3.0,1.0,H,2009-2010,4.0
+Bolton Wanderers,Tottenham Hotspur,2.0,2.0,D,2009-2010,4.0
+Burnley,Birmingham City,2.0,1.0,H,2009-2010,3.0
+Hull City,Wigan Athletic,2.0,1.0,H,2009-2010,3.0
+Wolverhampton Wanderers,Portsmouth,0.0,1.0,A,2009-2010,1.0
+Manchester United,Sunderland,2.0,2.0,D,2009-2010,4.0
+Arsenal,Blackburn Rovers,6.0,2.0,H,2009-2010,8.0
+Everton,Stoke City,1.0,1.0,D,2009-2010,2.0
+West Ham United,Fulham,2.0,2.0,D,2009-2010,4.0
+Chelsea,Liverpool,2.0,0.0,H,2009-2010,2.0
+Aston Villa,Manchester City,1.0,1.0,D,2009-2010,2.0
+Aston Villa,Chelsea,2.0,1.0,H,2009-2010,3.0
+Arsenal,Birmingham City,3.0,1.0,H,2009-2010,4.0
+Everton,Wolverhampton Wanderers,1.0,1.0,D,2009-2010,2.0
+Manchester United,Bolton Wanderers,2.0,1.0,H,2009-2010,3.0
+Portsmouth,Tottenham Hotspur,1.0,2.0,A,2009-2010,3.0
+Stoke City,West Ham United,2.0,1.0,H,2009-2010,3.0
+Sunderland,Liverpool,1.0,0.0,H,2009-2010,1.0
+Blackburn Rovers,Burnley,3.0,2.0,H,2009-2010,5.0
+Wigan Athletic,Manchester City,1.0,1.0,D,2009-2010,2.0
+Fulham,Hull City,2.0,0.0,H,2009-2010,2.0
+Wolverhampton Wanderers,Aston Villa,1.0,1.0,D,2009-2010,2.0
+Birmingham City,Sunderland,2.0,1.0,H,2009-2010,3.0
+Burnley,Wigan Athletic,1.0,3.0,A,2009-2010,4.0
+Hull City,Portsmouth,0.0,0.0,D,2009-2010,0.0
+Tottenham Hotspur,Stoke City,0.0,1.0,A,2009-2010,1.0
+Chelsea,Blackburn Rovers,5.0,0.0,H,2009-2010,5.0
+Bolton Wanderers,Everton,3.0,2.0,H,2009-2010,5.0
+Liverpool,Manchester United,2.0,0.0,H,2009-2010,2.0
+Manchester City,Fulham,2.0,2.0,D,2009-2010,4.0
+West Ham United,Arsenal,2.0,2.0,D,2009-2010,4.0
+Arsenal,Tottenham Hotspur,3.0,0.0,H,2009-2010,3.0
+Bolton Wanderers,Chelsea,0.0,4.0,A,2009-2010,4.0
+Burnley,Hull City,2.0,0.0,H,2009-2010,2.0
+Everton,Aston Villa,1.0,1.0,D,2009-2010,2.0
+Fulham,Liverpool,3.0,1.0,H,2009-2010,4.0
+Portsmouth,Wigan Athletic,4.0,0.0,H,2009-2010,4.0
+Stoke City,Wolverhampton Wanderers,2.0,2.0,D,2009-2010,4.0
+Sunderland,West Ham United,2.0,2.0,D,2009-2010,4.0
+Manchester United,Blackburn Rovers,2.0,0.0,H,2009-2010,2.0
+Birmingham City,Manchester City,0.0,0.0,D,2009-2010,0.0
+West Ham United,Aston Villa,2.0,1.0,H,2009-2010,3.0
+Aston Villa,Bolton Wanderers,5.0,1.0,H,2009-2010,6.0
+Blackburn Rovers,Portsmouth,3.0,1.0,H,2009-2010,4.0
+Manchester City,Burnley,3.0,3.0,D,2009-2010,6.0
+Tottenham Hotspur,Sunderland,2.0,0.0,H,2009-2010,2.0
+Wolverhampton Wanderers,Arsenal,1.0,4.0,A,2009-2010,5.0
+Hull City,Stoke City,2.0,1.0,H,2009-2010,3.0
+West Ham United,Everton,1.0,2.0,A,2009-2010,3.0
+Wigan Athletic,Fulham,1.0,1.0,D,2009-2010,2.0
+Chelsea,Manchester United,1.0,0.0,H,2009-2010,1.0
+Liverpool,Birmingham City,2.0,2.0,D,2009-2010,4.0
+Liverpool,Manchester City,2.0,2.0,D,2009-2010,4.0
+Birmingham City,Fulham,1.0,0.0,H,2009-2010,1.0
+Burnley,Aston Villa,1.0,1.0,D,2009-2010,2.0
+Chelsea,Wolverhampton Wanderers,4.0,0.0,H,2009-2010,4.0
+Hull City,West Ham United,3.0,3.0,D,2009-2010,6.0
+Sunderland,Arsenal,1.0,0.0,H,2009-2010,1.0
+Manchester United,Everton,3.0,0.0,H,2009-2010,3.0
+Bolton Wanderers,Blackburn Rovers,0.0,2.0,A,2009-2010,2.0
+Tottenham Hotspur,Wigan Athletic,9.0,1.0,H,2009-2010,10.0
+Stoke City,Portsmouth,1.0,0.0,H,2009-2010,1.0
+Hull City,Everton,3.0,2.0,H,2009-2010,5.0
+Fulham,Blackburn Rovers,3.0,0.0,H,2009-2010,3.0
+Blackburn Rovers,Stoke City,0.0,0.0,D,2009-2010,0.0
+Fulham,Bolton Wanderers,1.0,1.0,D,2009-2010,2.0
+Manchester City,Hull City,1.0,1.0,D,2009-2010,2.0
+Portsmouth,Manchester United,1.0,4.0,A,2009-2010,5.0
+West Ham United,Burnley,5.0,3.0,H,2009-2010,8.0
+Wigan Athletic,Sunderland,1.0,0.0,H,2009-2010,1.0
+Aston Villa,Tottenham Hotspur,1.0,1.0,D,2009-2010,2.0
+Wolverhampton Wanderers,Birmingham City,0.0,1.0,A,2009-2010,1.0
+Everton,Liverpool,0.0,2.0,A,2009-2010,2.0
+Arsenal,Chelsea,0.0,3.0,A,2009-2010,3.0
+Portsmouth,Burnley,2.0,0.0,H,2009-2010,2.0
+Arsenal,Stoke City,2.0,0.0,H,2009-2010,2.0
+Aston Villa,Hull City,3.0,0.0,H,2009-2010,3.0
+Blackburn Rovers,Liverpool,0.0,0.0,D,2009-2010,0.0
+West Ham United,Manchester United,0.0,4.0,A,2009-2010,4.0
+Wigan Athletic,Birmingham City,2.0,3.0,A,2009-2010,5.0
+Wolverhampton Wanderers,Bolton Wanderers,2.0,1.0,H,2009-2010,3.0
+Manchester City,Chelsea,2.0,1.0,H,2009-2010,3.0
+Fulham,Sunderland,1.0,0.0,H,2009-2010,1.0
+Everton,Tottenham Hotspur,2.0,2.0,D,2009-2010,4.0
+Stoke City,Wigan Athletic,2.0,2.0,D,2009-2010,4.0
+Birmingham City,West Ham United,1.0,0.0,H,2009-2010,1.0
+Bolton Wanderers,Manchester City,3.0,3.0,D,2009-2010,6.0
+Burnley,Fulham,1.0,1.0,D,2009-2010,2.0
+Chelsea,Everton,3.0,3.0,D,2009-2010,6.0
+Hull City,Blackburn Rovers,0.0,0.0,D,2009-2010,0.0
+Sunderland,Portsmouth,1.0,1.0,D,2009-2010,2.0
+Tottenham Hotspur,Wolverhampton Wanderers,0.0,1.0,A,2009-2010,1.0
+Manchester United,Aston Villa,0.0,1.0,A,2009-2010,1.0
+Liverpool,Arsenal,1.0,2.0,A,2009-2010,3.0
+Sunderland,Aston Villa,0.0,2.0,A,2009-2010,2.0
+Birmingham City,Blackburn Rovers,2.0,1.0,H,2009-2010,3.0
+Bolton Wanderers,West Ham United,3.0,1.0,H,2009-2010,4.0
+Manchester United,Wolverhampton Wanderers,3.0,0.0,H,2009-2010,3.0
+Burnley,Arsenal,1.0,1.0,D,2009-2010,2.0
+Chelsea,Portsmouth,2.0,1.0,H,2009-2010,3.0
+Liverpool,Wigan Athletic,2.0,1.0,H,2009-2010,3.0
+Tottenham Hotspur,Manchester City,3.0,0.0,H,2009-2010,3.0
+Portsmouth,Liverpool,2.0,0.0,H,2009-2010,2.0
+Aston Villa,Stoke City,1.0,0.0,H,2009-2010,1.0
+Blackburn Rovers,Tottenham Hotspur,0.0,2.0,A,2009-2010,2.0
+Fulham,Manchester United,3.0,0.0,H,2009-2010,3.0
+Manchester City,Sunderland,4.0,3.0,H,2009-2010,7.0
+Arsenal,Hull City,3.0,0.0,H,2009-2010,3.0
+Wolverhampton Wanderers,Burnley,2.0,0.0,H,2009-2010,2.0
+Everton,Birmingham City,1.0,1.0,D,2009-2010,2.0
+West Ham United,Chelsea,1.0,1.0,D,2009-2010,2.0
+Birmingham City,Chelsea,0.0,0.0,D,2009-2010,0.0
+Fulham,Tottenham Hotspur,0.0,0.0,D,2009-2010,0.0
+West Ham United,Portsmouth,2.0,0.0,H,2009-2010,2.0
+Burnley,Bolton Wanderers,1.0,1.0,D,2009-2010,2.0
+Manchester City,Stoke City,2.0,0.0,H,2009-2010,2.0
+Sunderland,Everton,1.0,1.0,D,2009-2010,2.0
+Wigan Athletic,Blackburn Rovers,1.0,1.0,D,2009-2010,2.0
+Liverpool,Wolverhampton Wanderers,2.0,0.0,H,2009-2010,2.0
+Arsenal,Aston Villa,3.0,0.0,H,2009-2010,3.0
+Hull City,Manchester United,1.0,3.0,A,2009-2010,4.0
+Tottenham Hotspur,West Ham United,2.0,0.0,H,2009-2010,2.0
+Blackburn Rovers,Sunderland,2.0,2.0,D,2009-2010,4.0
+Chelsea,Fulham,2.0,1.0,H,2009-2010,3.0
+Everton,Burnley,2.0,0.0,H,2009-2010,2.0
+Stoke City,Birmingham City,0.0,1.0,A,2009-2010,1.0
+Wolverhampton Wanderers,Manchester City,0.0,3.0,A,2009-2010,3.0
+Aston Villa,Liverpool,0.0,1.0,A,2009-2010,1.0
+Bolton Wanderers,Hull City,2.0,2.0,D,2009-2010,4.0
+Portsmouth,Arsenal,1.0,4.0,A,2009-2010,5.0
+Manchester United,Wigan Athletic,5.0,0.0,H,2009-2010,5.0
+Stoke City,Fulham,3.0,2.0,H,2009-2010,5.0
+Arsenal,Everton,2.0,2.0,D,2009-2010,4.0
+Birmingham City,Manchester United,1.0,1.0,D,2009-2010,2.0
+Manchester City,Blackburn Rovers,4.0,1.0,H,2009-2010,5.0
+Stoke City,Liverpool,1.0,1.0,D,2009-2010,2.0
+Chelsea,Sunderland,7.0,2.0,H,2009-2010,9.0
+Manchester United,Burnley,3.0,0.0,H,2009-2010,3.0
+Tottenham Hotspur,Hull City,0.0,0.0,D,2009-2010,0.0
+Wolverhampton Wanderers,Wigan Athletic,0.0,2.0,A,2009-2010,2.0
+Everton,Manchester City,2.0,0.0,H,2009-2010,2.0
+Aston Villa,West Ham United,0.0,0.0,D,2009-2010,0.0
+Blackburn Rovers,Fulham,2.0,0.0,H,2009-2010,2.0
+Bolton Wanderers,Arsenal,0.0,2.0,A,2009-2010,2.0
+Arsenal,Bolton Wanderers,4.0,2.0,H,2009-2010,6.0
+Liverpool,Tottenham Hotspur,2.0,0.0,H,2009-2010,2.0
+Manchester United,Hull City,4.0,0.0,H,2009-2010,4.0
+Portsmouth,West Ham United,1.0,1.0,D,2009-2010,2.0
+Wolverhampton Wanderers,Liverpool,0.0,0.0,D,2009-2010,0.0
+Bolton Wanderers,Burnley,1.0,0.0,H,2009-2010,1.0
+Tottenham Hotspur,Fulham,2.0,0.0,H,2009-2010,2.0
+Aston Villa,Arsenal,0.0,0.0,D,2009-2010,0.0
+Chelsea,Birmingham City,3.0,0.0,H,2009-2010,3.0
+Blackburn Rovers,Wigan Athletic,2.0,1.0,H,2009-2010,3.0
+Everton,Sunderland,2.0,0.0,H,2009-2010,2.0
+Birmingham City,Tottenham Hotspur,1.0,1.0,D,2009-2010,2.0
+Fulham,Aston Villa,0.0,2.0,A,2009-2010,2.0
+Hull City,Wolverhampton Wanderers,2.0,2.0,D,2009-2010,4.0
+Liverpool,Bolton Wanderers,2.0,0.0,H,2009-2010,2.0
+West Ham United,Blackburn Rovers,0.0,0.0,D,2009-2010,0.0
+Wigan Athletic,Everton,0.0,1.0,A,2009-2010,1.0
+Burnley,Chelsea,1.0,2.0,A,2009-2010,3.0
+Manchester City,Portsmouth,2.0,0.0,H,2009-2010,2.0
+Arsenal,Manchester United,1.0,3.0,A,2009-2010,4.0
+Sunderland,Stoke City,0.0,0.0,D,2009-2010,0.0
+Hull City,Chelsea,1.0,1.0,D,2009-2010,2.0
+Fulham,Portsmouth,1.0,0.0,H,2009-2010,1.0
+Liverpool,Everton,1.0,0.0,H,2009-2010,1.0
+Bolton Wanderers,Fulham,0.0,0.0,D,2009-2010,0.0
+Burnley,West Ham United,2.0,1.0,H,2009-2010,3.0
+Hull City,Manchester City,2.0,1.0,H,2009-2010,3.0
+Manchester United,Portsmouth,5.0,0.0,H,2009-2010,5.0
+Stoke City,Blackburn Rovers,3.0,0.0,H,2009-2010,3.0
+Sunderland,Wigan Athletic,1.0,1.0,D,2009-2010,2.0
+Tottenham Hotspur,Aston Villa,0.0,0.0,D,2009-2010,0.0
+Birmingham City,Wolverhampton Wanderers,2.0,1.0,H,2009-2010,3.0
+Chelsea,Arsenal,2.0,0.0,H,2009-2010,2.0
+Manchester City,Bolton Wanderers,2.0,0.0,H,2009-2010,2.0
+Portsmouth,Sunderland,1.0,1.0,D,2009-2010,2.0
+Wigan Athletic,Stoke City,1.0,1.0,D,2009-2010,2.0
+Fulham,Burnley,3.0,0.0,H,2009-2010,3.0
+Arsenal,Liverpool,1.0,0.0,H,2009-2010,1.0
+Aston Villa,Manchester United,1.0,1.0,D,2009-2010,2.0
+West Ham United,Birmingham City,2.0,0.0,H,2009-2010,2.0
+Wolverhampton Wanderers,Tottenham Hotspur,1.0,0.0,H,2009-2010,1.0
+Blackburn Rovers,Hull City,1.0,0.0,H,2009-2010,1.0
+Everton,Chelsea,2.0,1.0,H,2009-2010,3.0
+Stoke City,Manchester City,1.0,1.0,D,2009-2010,2.0
+Wigan Athletic,Bolton Wanderers,0.0,0.0,D,2009-2010,0.0
+Everton,Manchester United,3.0,1.0,H,2009-2010,4.0
+Arsenal,Sunderland,2.0,0.0,H,2009-2010,2.0
+West Ham United,Hull City,3.0,0.0,H,2009-2010,3.0
+Wolverhampton Wanderers,Chelsea,0.0,2.0,A,2009-2010,2.0
+Portsmouth,Stoke City,1.0,2.0,A,2009-2010,3.0
+Blackburn Rovers,Bolton Wanderers,3.0,0.0,H,2009-2010,3.0
+Aston Villa,Burnley,5.0,2.0,H,2009-2010,7.0
+Fulham,Birmingham City,2.0,1.0,H,2009-2010,3.0
+Manchester City,Liverpool,0.0,0.0,D,2009-2010,0.0
+Wigan Athletic,Tottenham Hotspur,0.0,3.0,A,2009-2010,3.0
+Manchester United,West Ham United,3.0,0.0,H,2009-2010,3.0
+Chelsea,Manchester City,2.0,4.0,A,2009-2010,6.0
+Birmingham City,Wigan Athletic,1.0,0.0,H,2009-2010,1.0
+Bolton Wanderers,Wolverhampton Wanderers,1.0,0.0,H,2009-2010,1.0
+Burnley,Portsmouth,1.0,2.0,A,2009-2010,3.0
+Stoke City,Arsenal,1.0,3.0,A,2009-2010,4.0
+Tottenham Hotspur,Everton,2.0,1.0,H,2009-2010,3.0
+Liverpool,Blackburn Rovers,2.0,1.0,H,2009-2010,3.0
+Sunderland,Fulham,0.0,0.0,D,2009-2010,0.0
+Arsenal,Burnley,3.0,1.0,H,2009-2010,4.0
+West Ham United,Bolton Wanderers,1.0,2.0,A,2009-2010,3.0
+Wolverhampton Wanderers,Manchester United,0.0,1.0,A,2009-2010,1.0
+Everton,Hull City,5.0,1.0,H,2009-2010,6.0
+Wigan Athletic,Liverpool,1.0,0.0,H,2009-2010,1.0
+Portsmouth,Birmingham City,1.0,2.0,A,2009-2010,3.0
+Sunderland,Bolton Wanderers,4.0,0.0,H,2009-2010,4.0
+Burnley,Stoke City,1.0,1.0,D,2009-2010,2.0
+Tottenham Hotspur,Blackburn Rovers,3.0,1.0,H,2009-2010,4.0
+Birmingham City,Everton,2.0,2.0,D,2009-2010,4.0
+Bolton Wanderers,Wigan Athletic,4.0,0.0,H,2009-2010,4.0
+Burnley,Wolverhampton Wanderers,1.0,2.0,A,2009-2010,3.0
+Chelsea,West Ham United,4.0,1.0,H,2009-2010,5.0
+Stoke City,Aston Villa,0.0,0.0,D,2009-2010,0.0
+Hull City,Arsenal,1.0,2.0,A,2009-2010,3.0
+Manchester United,Fulham,3.0,0.0,H,2009-2010,3.0
+Sunderland,Manchester City,1.0,1.0,D,2009-2010,2.0
+Liverpool,Portsmouth,4.0,1.0,H,2009-2010,5.0
+Wigan Athletic,Aston Villa,1.0,2.0,A,2009-2010,3.0
+Aston Villa,Wolverhampton Wanderers,2.0,2.0,D,2009-2010,4.0
+Everton,Bolton Wanderers,2.0,0.0,H,2009-2010,2.0
+Portsmouth,Hull City,3.0,2.0,H,2009-2010,5.0
+Stoke City,Tottenham Hotspur,1.0,2.0,A,2009-2010,3.0
+Sunderland,Birmingham City,3.0,1.0,H,2009-2010,4.0
+Wigan Athletic,Burnley,1.0,0.0,H,2009-2010,1.0
+Arsenal,West Ham United,2.0,0.0,H,2009-2010,2.0
+Manchester United,Liverpool,2.0,1.0,H,2009-2010,3.0
+Fulham,Manchester City,1.0,2.0,A,2009-2010,3.0
+Blackburn Rovers,Chelsea,1.0,1.0,D,2009-2010,2.0
+West Ham United,Wolverhampton Wanderers,1.0,3.0,A,2009-2010,4.0
+Aston Villa,Sunderland,1.0,1.0,D,2009-2010,2.0
+Manchester City,Everton,0.0,2.0,A,2009-2010,2.0
+Portsmouth,Chelsea,0.0,5.0,A,2009-2010,5.0
+Blackburn Rovers,Birmingham City,2.0,1.0,H,2009-2010,3.0
+Birmingham City,Arsenal,1.0,1.0,D,2009-2010,2.0
+Chelsea,Aston Villa,7.0,1.0,H,2009-2010,8.0
+Hull City,Fulham,2.0,0.0,H,2009-2010,2.0
+Tottenham Hotspur,Portsmouth,2.0,0.0,H,2009-2010,2.0
+West Ham United,Stoke City,0.0,1.0,A,2009-2010,1.0
+Wolverhampton Wanderers,Everton,0.0,0.0,D,2009-2010,0.0
+Bolton Wanderers,Manchester United,0.0,4.0,A,2009-2010,4.0
+Burnley,Blackburn Rovers,0.0,1.0,A,2009-2010,1.0
+Liverpool,Sunderland,3.0,0.0,H,2009-2010,3.0
+Manchester City,Wigan Athletic,3.0,0.0,H,2009-2010,3.0
+Manchester United,Chelsea,1.0,2.0,A,2009-2010,3.0
+Arsenal,Wolverhampton Wanderers,1.0,0.0,H,2009-2010,1.0
+Bolton Wanderers,Aston Villa,0.0,1.0,A,2009-2010,1.0
+Portsmouth,Blackburn Rovers,0.0,0.0,D,2009-2010,0.0
+Stoke City,Hull City,2.0,0.0,H,2009-2010,2.0
+Sunderland,Tottenham Hotspur,3.0,1.0,H,2009-2010,4.0
+Burnley,Manchester City,1.0,6.0,A,2009-2010,7.0
+Birmingham City,Liverpool,1.0,1.0,D,2009-2010,2.0
+Fulham,Wigan Athletic,2.0,1.0,H,2009-2010,3.0
+Everton,West Ham United,2.0,2.0,D,2009-2010,4.0
+Hull City,Burnley,1.0,4.0,A,2009-2010,5.0
+West Ham United,Sunderland,1.0,0.0,H,2009-2010,1.0
+Wolverhampton Wanderers,Stoke City,0.0,0.0,D,2009-2010,0.0
+Blackburn Rovers,Manchester United,0.0,0.0,D,2009-2010,0.0
+Liverpool,Fulham,0.0,0.0,D,2009-2010,0.0
+Manchester City,Birmingham City,5.0,1.0,H,2009-2010,6.0
+Chelsea,Bolton Wanderers,1.0,0.0,H,2009-2010,1.0
+Aston Villa,Everton,2.0,2.0,D,2009-2010,4.0
+Wigan Athletic,Portsmouth,0.0,0.0,D,2009-2010,0.0
+Tottenham Hotspur,Arsenal,2.0,1.0,H,2009-2010,3.0
+Manchester City,Manchester United,0.0,1.0,A,2009-2010,1.0
+Birmingham City,Hull City,0.0,0.0,D,2009-2010,0.0
+Blackburn Rovers,Everton,2.0,3.0,A,2009-2010,5.0
+Fulham,Wolverhampton Wanderers,0.0,0.0,D,2009-2010,0.0
+Stoke City,Bolton Wanderers,1.0,2.0,A,2009-2010,3.0
+Sunderland,Burnley,2.0,1.0,H,2009-2010,3.0
+Tottenham Hotspur,Chelsea,2.0,1.0,H,2009-2010,3.0
+Wigan Athletic,Arsenal,3.0,2.0,H,2009-2010,5.0
+Portsmouth,Aston Villa,1.0,2.0,A,2009-2010,3.0
+Liverpool,West Ham United,3.0,0.0,H,2009-2010,3.0
+Hull City,Aston Villa,0.0,2.0,A,2009-2010,2.0
+Manchester United,Tottenham Hotspur,3.0,1.0,H,2009-2010,4.0
+Bolton Wanderers,Portsmouth,2.0,2.0,D,2009-2010,4.0
+Hull City,Sunderland,0.0,1.0,A,2009-2010,1.0
+West Ham United,Wigan Athletic,3.0,2.0,H,2009-2010,5.0
+Wolverhampton Wanderers,Blackburn Rovers,1.0,1.0,D,2009-2010,2.0
+Arsenal,Manchester City,0.0,0.0,D,2009-2010,0.0
+Aston Villa,Birmingham City,1.0,0.0,H,2009-2010,1.0
+Burnley,Liverpool,0.0,4.0,A,2009-2010,4.0
+Everton,Fulham,2.0,1.0,H,2009-2010,3.0
+Chelsea,Stoke City,7.0,0.0,H,2009-2010,7.0
+Birmingham City,Burnley,2.0,1.0,H,2009-2010,3.0
+Manchester City,Aston Villa,3.0,1.0,H,2009-2010,4.0
+Portsmouth,Wolverhampton Wanderers,3.0,1.0,H,2009-2010,4.0
+Stoke City,Everton,0.0,0.0,D,2009-2010,0.0
+Tottenham Hotspur,Bolton Wanderers,1.0,0.0,H,2009-2010,1.0
+Liverpool,Chelsea,0.0,2.0,A,2009-2010,2.0
+Fulham,West Ham United,3.0,2.0,H,2009-2010,5.0
+Sunderland,Manchester United,0.0,1.0,A,2009-2010,1.0
+Wigan Athletic,Hull City,2.0,2.0,D,2009-2010,4.0
+Blackburn Rovers,Arsenal,2.0,1.0,H,2009-2010,3.0
+Fulham,Stoke City,0.0,1.0,A,2009-2010,1.0
+Manchester City,Tottenham Hotspur,0.0,1.0,A,2009-2010,1.0
+Arsenal,Fulham,4.0,0.0,H,2009-2010,4.0
+Aston Villa,Blackburn Rovers,0.0,1.0,A,2009-2010,1.0
+Bolton Wanderers,Birmingham City,2.0,1.0,H,2009-2010,3.0
+Burnley,Tottenham Hotspur,4.0,2.0,H,2009-2010,6.0
+Chelsea,Wigan Athletic,8.0,0.0,H,2009-2010,8.0
+Everton,Portsmouth,1.0,0.0,H,2009-2010,1.0
+Hull City,Liverpool,0.0,0.0,D,2009-2010,0.0
+Manchester United,Stoke City,4.0,0.0,H,2009-2010,4.0
+West Ham United,Manchester City,1.0,1.0,D,2009-2010,2.0
+Wolverhampton Wanderers,Sunderland,2.0,1.0,H,2009-2010,3.0
