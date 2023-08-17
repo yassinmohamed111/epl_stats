@@ -231,7 +231,7 @@ def save() :
 
 
 run()
-#sava() dont run it unless u want to save a new thing
+#save() dont run it unless u want to save a new thing
 
 
 
