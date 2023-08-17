@@ -138,6 +138,7 @@ statarray = [stat07 , stat08 , stat09, stat10 , stat11 , stat12 , stat13 , stat1
 seasonarray = [season07 , season08 , season09 , season10 , season11 , season12 , season13 , season14 , season15 , season16 , season17 ]
 
 #here get the input season from the user
+
 x = input("please enter season: ")
 season = int(x)
 
@@ -160,7 +161,18 @@ def calWins( teamm , s ):
         win = home_wins + away_wins
         return win 
 
+def getWins( SeasonNumber) :
+        listTeam = []
+        for i , row in statarray[SeasonNumber].iterrows() :
+                wins = calWins(row["home_team"] , SeasonNumber)
+                listTeam.append(wins) 
 
+        return listTeam
+
+
+
+
+#this function gets total goals
 def calTotal( teamm , s ):
          
         df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
@@ -184,40 +196,40 @@ def gettotal( SeasonNumber) :
 
 
 
-#this function takes the season to know the team names and get the home and away matches to add it to the calWins func and returns list of winnings
-def getWins( SeasonNumber) :
+#calculate total draws
+def calDraw( teamm , s ):
+         
+        df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
+        df_team_away = seasonarray[s][seasonarray[s]["away_team"] == teamm]
+        df_count_home = df_team_home[df_team_home["result"] == "D" ]
+        df_count_away = df_team_away[ df_team_away["result"] == "D"]
+        home_total = pd.value_counts(df_count_home["result"]).sum()
+        away_total = pd.value_counts(df_count_away["result"]).sum()
+        total = home_total + away_total
+        return total 
+
+
+
+def getDraw( SeasonNumber) :
         listTeam = []
         for i , row in statarray[SeasonNumber].iterrows() :
-                wins = calWins(row["home_team"] , SeasonNumber)
+                wins = calDraw(row["home_team"] , SeasonNumber)
                 listTeam.append(wins) 
 
         return listTeam
 
 
 
-  
 
 
-#here to run the code just call run()
-def run() :
-        #here it takes the season number and convert it to intger 
-       
 
 
-        i = 6 #increamant in case we wanted to save a new stat
-        #here we get the list of winnings of the specific season then add it to dataframe stat with new column ["wins"] then print the dataframe sorted and print the head == winner
-        wins = getWins( int(season) )
-        total  = gettotal(int(season))
-        statarray[season]["total"] = total
-        statarray[season]["wins"] = wins 
+#get season
 
-        statarray[season]["losses"] =statarray[season]['total'] - statarray[season]["wins"] 
-        statarray[season]["prop"] =statarray[season]['wins'] / statarray[season]["total"] 
-        print(statarray[season].sort_values(by='wins' , ascending=False))
-        temp = statarray[season].sort_values(by='wins' , ascending=False)
-        print("##############################################")
-        print( " the epl winner is " + temp["home_team"].head(1))
-        print("##############################################")
+def Calcseason (seasonNumber) : 
+  df_season = seasonarray[seasonNumber]["season"].head(21)
+  return df_season
+        
 
 
 
@@ -229,17 +241,65 @@ def save() :
         temp.to_csv(f"stat_{int(x)}.csv" , index= False)
 
 
+#here to run the code just call run()
+def run() :
+        #here it takes the season number and convert it to intger 
+       
+        s = Calcseason(int(season))
+        
+
+        i = 6 #increamant in case we wanted to save a new stat
+        #here we get the list of winnings of the specific season then add it to dataframe stat with new column ["wins"] then print the dataframe sorted and print the head == winner
+        wins = getWins( int(season) )
+        total  = gettotal(int(season))
+        draw = getDraw(int(season))
+
+        statarray[season]["total"] = total
+        statarray[season]["wins"] = wins 
+        statarray[season]["draws"] = draw
+        statarray[season]['season']= s
+
+        statarray[season]["losses"] =statarray[season]['total'] - (statarray[season]["wins"]  + statarray[season]["draws"] ) 
+        statarray[season]["prop"] =statarray[season]['wins'] / statarray[season]["total"] 
+        print(statarray[season].sort_values(by='wins' , ascending=False))
+        temp = statarray[season].sort_values(by='wins' , ascending=False)
+        print("##############################################")
+        print( " the epl winner is " + temp["home_team"].head(1))
+        print("##############################################")
+       
+
+
+
+
+#gets the winner of every season and save it in a csv ( dont run again)
+def newWinnerAppend():
+    
+    
+
+    temp = statarray[season].sort_values(by='wins', ascending=False).head(1)
+    
+    winner = pd.read_csv("winnersOFallseasons.csv")
+
+    new_winner = pd.DataFrame({
+        "winner": [temp["home_team"].values[0]],
+        "wins": [temp["wins"].values[0]],
+        "season": [temp["season"].values[0]]
+    })
+
+    winner = winner.append(new_winner, ignore_index=True)
+    
+    winner.to_csv("winnersOFallseasons.csv", index=False)
+
+
+
+
+
 
 run()
-#sava() dont run it unless u want to save a new thing
+#newWinnerAppend() #dont run again unless wanna save new season
+#save() #dont run it unless u want to save a new season
 
 
-
-
-
-
-
-            
 
 
   
