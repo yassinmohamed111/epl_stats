@@ -219,6 +219,14 @@ def getDraw( SeasonNumber) :
         return listTeam
 
 
+def getgoals( SeasonNumber) :
+        listTeam = []
+        for i , row in statarray[SeasonNumber].iterrows() :
+                wins = teamGoals(row["home_team"] , SeasonNumber)
+                listTeam.append(wins) 
+
+        return listTeam
+
 
 
 
@@ -253,11 +261,14 @@ def run() :
         wins = getWins( int(season) )
         total  = gettotal(int(season))
         draw = getDraw(int(season))
+        goals = getgoals(int(season))
 
         statarray[season]["total"] = total
         statarray[season]["wins"] = wins 
         statarray[season]["draws"] = draw
         statarray[season]['season']= s
+        statarray[season]["goals"] = goals
+        statarray[season]["goals_per_game"] = statarray[season]["goals"] / statarray[season]["total"]
 
         statarray[season]["losses"] =statarray[season]['total'] - (statarray[season]["wins"]  + statarray[season]["draws"] ) 
         statarray[season]["prop"] =statarray[season]['wins'] / statarray[season]["total"] 
@@ -283,20 +294,30 @@ def newWinnerAppend():
     new_winner = pd.DataFrame({
         "winner": [temp["home_team"].values[0]],
         "wins": [temp["wins"].values[0]],
-        "season": [temp["season"].values[0]]
+        "season": [temp["season"].values[0]],
+         "goals": [temp["goals"].values[0]]
     })
 
     winner = winner.append(new_winner, ignore_index=True)
     
     winner.to_csv("winnersOFallseasons.csv", index=False)
 
-
-
+ 
+def teamGoals( teamm , s) :
+        df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
+        df_team_away = seasonarray[s][seasonarray[s]["away_team"] == teamm]
+        away_goals= df_team_away["away_goals"].sum()
+        home_goals = df_team_home["home_goals"].sum()
+        total = away_goals + home_goals
+        return total 
+       
 
 
 
 run()
-#sava() dont run it unless u want to save a new thing
+#save()
+newWinnerAppend()
+
 
 
 
