@@ -133,6 +133,10 @@ season15 = pd.read_csv('season_15.csv')
 season16 = pd.read_csv('season_16.csv')
 season17 = pd.read_csv('season_17.csv')
 
+
+
+
+
 #made array of the stat and season to easy access them dynamically
 statarray = [stat07 , stat08 , stat09, stat10 , stat11 , stat12 , stat13 , stat14 , stat15 , stat16 , stat17 ]
 seasonarray = [season07 , season08 , season09 , season10 , season11 , season12 , season13 , season14 , season15 , season16 , season17 ]
@@ -140,16 +144,21 @@ seasonarray = [season07 , season08 , season09 , season10 , season11 , season12 ,
 #here get the input season from the user
 
 x = input("please enter season: ")
-season = int(x)
+seasonNumber = int(x)
 
         #switch season number to indexes of statarray[ season7 = index 0 , ...]
-season = {
+seasonNumber = {
         7: 0,  8: 1,  9: 2,  10: 3,
         11: 4, 12: 5, 13: 6, 14: 7,
         15: 8, 16: 9, 17: 10
-        }.get(season, -1)  
+        }.get(seasonNumber, -1)
 
-#this function takes season and team to calculate how many matches the team won
+
+
+
+#############################################################################################################################
+
+#cal wins of each team in each season
 def calWins( teamm , s ):
          
         df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
@@ -160,7 +169,7 @@ def calWins( teamm , s ):
         away_wins = pd.value_counts(df_count_away["result"]).sum()
         win = home_wins + away_wins
         return win 
-
+#return list of wins of teams in everyseason
 def getWins( SeasonNumber) :
         listTeam = []
         for i , row in statarray[SeasonNumber].iterrows() :
@@ -170,10 +179,10 @@ def getWins( SeasonNumber) :
         return listTeam
 
 
+#############################################################################################################################
 
-
-#this function gets total goals
-def calTotal( teamm , s ):
+#cal total matches of each team in every season
+def cal_total_matches( teamm , s ):
          
         df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
         df_team_away = seasonarray[s][seasonarray[s]["away_team"] == teamm]
@@ -185,18 +194,20 @@ def calTotal( teamm , s ):
         return total 
 
 
-
-def gettotal( SeasonNumber) :
+#return list of matches played
+def get_total_goals( SeasonNumber) :
         listTeam = []
         for i , row in statarray[SeasonNumber].iterrows() :
-                wins = calTotal(row["home_team"] , SeasonNumber)
-                listTeam.append(wins) 
+                total_matches = cal_total_matches(row["home_team"] , SeasonNumber)
+                listTeam.append(total_matches) 
 
         return listTeam
 
 
 
-#calculate total draws
+#############################################################################################################################
+
+#calculate total draws of each team in every season
 def calDraw( teamm , s ):
          
         df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
@@ -209,71 +220,158 @@ def calDraw( teamm , s ):
         return total 
 
 
-
+#gets list of draws
 def getDraw( SeasonNumber) :
         listTeam = []
         for i , row in statarray[SeasonNumber].iterrows() :
-                wins = calDraw(row["home_team"] , SeasonNumber)
-                listTeam.append(wins) 
+                draws = calDraw(row["home_team"] , SeasonNumber)
+                listTeam.append(draws) 
 
         return listTeam
+#############################################################################################################################
+#gets total nummber of goals for each team in each season
+def teamGoals( teamm , s) :
+        df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
+        df_team_away = seasonarray[s][seasonarray[s]["away_team"] == teamm]
+        away_goals= df_team_away["away_goals"].sum()
+        home_goals = df_team_home["home_goals"].sum()
+        total = away_goals + home_goals
+        return total 
 
-
+#return list of goals
 def getgoals( SeasonNumber) :
         listTeam = []
         for i , row in statarray[SeasonNumber].iterrows() :
-                wins = teamGoals(row["home_team"] , SeasonNumber)
-                listTeam.append(wins) 
+                goals = teamGoals(row["home_team"] , SeasonNumber)
+                listTeam.append(goals) 
+
+        return listTeam
+#############################################################################################################################
+
+#gets against team goals
+def teamGAganistoals( teamm , s) :
+        df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
+        df_team_away = seasonarray[s][seasonarray[s]["away_team"] == teamm]
+        away_goals= df_team_away["home_goals"].sum()
+        home_goals = df_team_home["away_goals"].sum()
+        total = away_goals + home_goals
+        return total
+       
+
+
+#return list of against goals
+def getAgainstgoals( SeasonNumber) :
+        listTeam = []
+        for i , row in statarray[SeasonNumber].iterrows() :
+                against = teamGAganistoals(row["home_team"] , SeasonNumber)
+                listTeam.append(against) 
+
+        return listTeam
+
+
+#############################################################################################################################
+#gets the clean sheet of every teams in every season
+def cleansheet( teamm , s) :
+        
+        clean = 0.0
+        df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm]
+        df_team_away = seasonarray[s][seasonarray[s]["away_team"] == teamm]
+        away_clean = (df_team_away["home_goals"] == clean).sum()
+        home_clean = (df_team_home["away_goals"] == clean).sum()
+        total = away_clean + home_clean
+        return total
+
+       
+
+#return list of cleansheets
+def getCleansheet( SeasonNumber) :
+        listTeam = []
+        for i , row in statarray[SeasonNumber].iterrows() :
+                cleans = cleansheet(row["home_team"] , SeasonNumber)
+                listTeam.append(cleans) 
 
         return listTeam
 
 
 
-
-
-
-#get season
-
+#############################################################################################################################
+#calc season
 def Calcseason (seasonNumber) : 
   df_season = seasonarray[seasonNumber]["season"].head(21)
   return df_season
         
+#############################################################################################################################
+#calc how many goals entered in each season
+def seasonGoals (s) :
+      x =  seasonarray[s]["total_goals"].sum()
+      print(x)
+
+
+#############################################################################################################################
+#just for run
+def enterTeam() :
+        x=  input('please enter team :')   
+        return x
+def search( team , season) :
+      
+       teamstat = statarray[season][statarray[season]["home_team"] == team]
+       print(teamstat)
 
 
 
+#############################################################################################################################
+
+
+
+
+#################################################################################
+###############functions of runs################################################
+###############################################################################
 #here to save changes only on csv
 def save() :
         #here to save a new stat it starts at season+ 7  = stat season 7 , ...(sorted)
-        x = int(season) + 7 
-        temp = statarray[season].sort_values(by='wins' , ascending=False)
+        x = int(seasonNumber) + 7 
+        temp = statarray[seasonNumber].sort_values(by='wins' , ascending=False)
         temp.to_csv(f"stat_{int(x)}.csv" , index= False)
 
+
+
+def runsearch() :
+       
+       x = enterTeam()
+       search(x , seasonNumber)
+
+        
 
 #here to run the code just call run()
 def run() :
         #here it takes the season number and convert it to intger 
        
-        s = Calcseason(int(season))
+        s = Calcseason(int(seasonNumber))
         
 
         i = 6 #increamant in case we wanted to save a new stat
         #here we get the list of winnings of the specific season then add it to dataframe stat with new column ["wins"] then print the dataframe sorted and print the head == winner
-        wins = getWins( int(season) )
-        total  = gettotal(int(season))
-        draw = getDraw(int(season))
-        goals = getgoals(int(season))
+        wins = getWins( int(seasonNumber) )
+        total  = get_total_goals(int(seasonNumber))
+        draw = getDraw(int(seasonNumber))
+        goals = getgoals(int(seasonNumber))
+        against = getAgainstgoals(int(seasonNumber))
+        cleansheets = getCleansheet(int(seasonNumber))
 
-        statarray[season]["total"] = total
-        statarray[season]["wins"] = wins 
-        statarray[season]["draws"] = draw
-        statarray[season]['season']= s
-        statarray[season]["goals"] = goals
-        statarray[season]["goals_per_game"] = statarray[season]["goals"] / statarray[season]["total"]
+        statarray[seasonNumber]["total"] = total
+        statarray[seasonNumber]["wins"] = wins 
+        statarray[seasonNumber]["draws"] = draw
+        statarray[seasonNumber]['season']= s
+        statarray[seasonNumber]["goals"] = goals
+        statarray[seasonNumber]["goals_per_game"] = statarray[seasonNumber]["goals"] / statarray[seasonNumber]["total"]
+        statarray[seasonNumber]["Goals_Against"] = against
+        statarray[seasonNumber]["cleansheets"]= cleansheets
 
-        statarray[season]["losses"] =statarray[season]['total'] - (statarray[season]["wins"]  + statarray[season]["draws"] ) 
-        statarray[season]["prop"] =statarray[season]['wins'] / statarray[season]["total"] 
-        print(statarray[season].sort_values(by='wins' , ascending=False))
-        temp = statarray[season].sort_values(by='wins' , ascending=False)
+        statarray[seasonNumber]["losses"] =statarray[seasonNumber]['total'] - (statarray[seasonNumber]["wins"]  + statarray[seasonNumber]["draws"] ) 
+        statarray[seasonNumber]["prop"] =statarray[seasonNumber]['wins'] / statarray[seasonNumber]["total"] 
+        print(statarray[seasonNumber].sort_values(by='wins' , ascending=False))
+        temp = statarray[seasonNumber].sort_values(by='wins' , ascending=False)
         print("##############################################")
         print( " the epl winner is " + temp["home_team"].head(1))
         print("##############################################")
@@ -284,10 +382,7 @@ def run() :
 
 #gets the winner of every season and save it in a csv ( dont run again)
 def newWinnerAppend():
-    
-    
-
-    temp = statarray[season].sort_values(by='wins', ascending=False).head(1)
+    temp = statarray[seasonNumber].sort_values(by='wins', ascending=False).head(1)
     
     winner = pd.read_csv("winnersOFallseasons.csv")
 
@@ -297,27 +392,19 @@ def newWinnerAppend():
         "season": [temp["season"].values[0]],
          "goals": [temp["goals"].values[0]]
     })
-
     winner = winner.append(new_winner, ignore_index=True)
-    
     winner.to_csv("winnersOFallseasons.csv", index=False)
 
  
-def teamGoals( teamm , s) :
-        df_team_home = seasonarray[s][seasonarray[s]["home_team"] == teamm ]
-        df_team_away = seasonarray[s][seasonarray[s]["away_team"] == teamm]
-        away_goals= df_team_away["away_goals"].sum()
-        home_goals = df_team_home["home_goals"].sum()
-        total = away_goals + home_goals
-        return total 
-       
+#################################################################################
+###############running section  ################################################
+###############################################################################
 
-
-
-run()
-#save()
-newWinnerAppend()
-
+#runsearch() #takes season and team as input to output stat of team in a specific season
+#seasonGoals(seasonNumber) #takes season number as input and output total goals of this season
+#run() #takes season as input and output season stats
+#save() #to save a new season stat (dont run)
+#newWinnerAppend() append new seaosn winner ( dont run)
 
 
 
