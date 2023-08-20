@@ -312,10 +312,45 @@ def seasonGoals (s) :
 def enterTeam() :
         x=  input('please enter team :')   
         return x
+
+def home() :
+       home = input("please enter home_team :")
+       return home
+
+def away() :
+       away = input("please enter away_team :")
+       return away
+
 def search( team , season) :
       
        teamstat = statarray[season][statarray[season]["home_team"] == team]
        print(teamstat)
+
+def searchMatch(s, home , away) :
+       
+       match = seasonarray[s].set_index(['home_team' , 'away_team'])
+       print("///////////////////////////////////////////////////////////////////////////////////////////////////")
+       print(F"///////////////////////////////////Stat of the match between {home} VS. {away} ////////////////")
+       print("")
+       print(match.loc[[(home , away)]])
+       print("")
+       print("///////////////////////////////////////////////////////////////////////////////////////////////////")
+       print(F"///////////////////////////////////Stat of {home} this season //////////////////////////////////")
+       print("")
+       home_team= statarray[s][statarray[s]["home_team"] == home]
+       print(home_team)
+       print("")
+       print("///////////////////////////////////////////////////////////////////////////////////////////////////")
+       
+       print(f"///////////////////////////////////Stat of {away} this season///////////////////////////////////")
+       print("")
+       away_team = statarray[s][statarray[s]["home_team"] == away]
+       print(away_team)
+       print("")
+       print("///////////////////////////////////////////////////////////////////////////////////////////////////")
+
+
+
 
 
 
@@ -341,10 +376,19 @@ def runsearch() :
        x = enterTeam()
        search(x , seasonNumber)
 
-        
+
+def runSearchMatch() :
+       h = home()
+       a = away()
+       searchMatch(seasonNumber , h , a)    
 
 #here to run the code just call run()
 def run() :
+
+
+
+
+
         #here it takes the season number and convert it to intger 
        
         s = Calcseason(int(seasonNumber))
@@ -367,6 +411,7 @@ def run() :
         statarray[seasonNumber]["goals_per_game"] = statarray[seasonNumber]["goals"] / statarray[seasonNumber]["total"]
         statarray[seasonNumber]["Goals_Against"] = against
         statarray[seasonNumber]["cleansheets"]= cleansheets
+        statarray[seasonNumber]["cleansheets_prop"]= statarray[seasonNumber]["cleansheets"] / statarray[seasonNumber]["total"]
 
         statarray[seasonNumber]["losses"] =statarray[seasonNumber]['total'] - (statarray[seasonNumber]["wins"]  + statarray[seasonNumber]["draws"] ) 
         statarray[seasonNumber]["prop"] =statarray[seasonNumber]['wins'] / statarray[seasonNumber]["total"] 
@@ -405,13 +450,13 @@ def newWinnerAppend():
 #run() #takes season as input and output season stats
 #save() #to save a new season stat (dont run)
 #newWinnerAppend() append new seaosn winner ( dont run)
+run()
+save()
 
 
-
-
-
-
-
+#run()
+#runsearch()
+#runSearchMatch()
 
 
 
