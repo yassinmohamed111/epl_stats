@@ -620,6 +620,10 @@ def run_all() :
         y = allstat["against_goals"] / allstat["total"]
         allstat["against_goals_per_game"] = y
         allstat["cleansheets_prop"] = allstat["cleansheets"] / allstat["total"]
+        w = allstat["wins"] / allstat["total"]
+        prop = (w * 100 )
+
+        allstat["win_prop"] = prop
         print(allstat)
 
 
