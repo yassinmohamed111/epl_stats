@@ -632,6 +632,76 @@ def save_all() :
         allstat.to_csv("all_stat.csv" , index=False)
 
 
-#run()
-#run_all()
-#save_all()
+
+
+#***************************************************************************************************************************************
+#***************************************************************************************************************************************
+#                        visualizations
+#***************************************************************************************************************************************
+#***************************************************************************************************************************************
+
+
+
+import matplotlib.pyplot as plt 
+
+
+
+def inputteam(num):
+        team = []
+        for i in range (num) :
+                x= input(f"team{i+1} :") 
+                team.append(x)
+
+        return team
+
+
+# Plotting
+def winsplot(num) :
+        teams = inputteam(num)
+        allstatINdexed = allstat.set_index("home_team")
+        wins = allstatINdexed.loc[teams]
+        plt.bar(wins.index , wins["wins"])
+       
+        plt.title(f"number of wins of these {num}each team")
+        plt.show()
+
+
+def winprop(num) :
+        teams = inputteam(num)
+        allstatIndexed = allstat.set_index("home_team")
+        prop = allstatIndexed.loc[teams]
+        plt.bar(prop.index , prop["win_prop"])
+        plt.title(f"win prop of these {num} each teams")
+        plt.show()
+
+
+
+
+def goalsPiechart(num):
+    teams = inputteam(num)
+    allstatindexed = allstat.set_index("home_team")
+    goalss = allstatindexed.loc[teams]
+    pie = goalss["total_goals"] / allstatindexed["total_goals"].sum()
+    labels = teams
+    plt.pie(pie, labels=labels, autopct='%1.1f%%', startangle=140)
+    plt.legend(labels, loc="best")
+    plt.axis('equal')  
+    plt.show()
+
+
+
+def winsPiechart(num):
+        teams = inputteam(num)
+        allstatindexed = allstat.set_index("home_team")
+        wins = allstatindexed.loc[teams]
+        pie = wins["wins"] / allstatindexed["wins"].sum()
+        plt.pie(pie , labels = teams , autopct='%1.1f%%' , startangle=140)
+        plt.title(f"winning propotion of these {num} teams")
+        #plt.legend(teams , loc = "best")
+        plt.axis = "equal"
+        plt.show()
+
+#winsplot() #add number of teams you want to add
+#winprop(7) #add number of teams you want to add
+#winsPiechart(7)
+#goalsPiechart(6) #add number of teams you want to add
