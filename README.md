@@ -4,11 +4,15 @@ splitinng results to 11 seasons then creating stats for each season on its own a
 
 
 <h2>wins bar plot of specific teams:</h2>
-![Figure_1](https://github.com/yassinmohamed111/epl_stats/assets/108435195/63a9e374-7281-441a-8650-15dcc920460b)
+
+![Figure_1](https://github.com/yassinmohamed111/epl_stats/assets/108435195/c0f8f637-524b-4bc9-92e5-f77d70a890f8)
+
 
 <h2>wins prop. piechart of specific teams:</h2>
-![Figure_2](https://github.com/yassinmohamed111/epl_stats/assets/108435195/a756db60-d371-480c-aa41-e2379927c103)
+
+![Figure_2](https://github.com/yassinmohamed111/epl_stats/assets/108435195/8ae3f3c5-5352-4134-831e-0982585cf489)
 
 
 <h2>goals prop. piechart of specific teams: </h2>
-![Figure_3](https://github.com/yassinmohamed111/epl_stats/assets/108435195/58803644-e7c0-42e7-8bbe-94a7e175b974)
+
+![Figure_3](https://github.com/yassinmohamed111/epl_stats/assets/108435195/d9cc0a9c-93f2-486d-801b-d5cbc82ce10e)
