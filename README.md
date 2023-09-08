@@ -3,6 +3,17 @@ extracting information (wins , losses  , total matches and prop , etc..)  using 
 splitinng results to 11 seasons then creating stats for each season on its own and also extractig all info in one csv file (2006/2007 to 2017/2018)
 
 
+<h2>visualization Using PowerBI :</h2>
+
+
+https://github.com/yassinmohamed111/epl_stats/assets/108435195/1e8f6102-3951-4b56-bfda-32582ed70dc5
+
+
+
+
+
+
+
 <h2>wins bar plot of specific teams:</h2>
 
 ![Figure_1](https://github.com/yassinmohamed111/epl_stats/assets/108435195/c0f8f637-524b-4bc9-92e5-f77d70a890f8)
